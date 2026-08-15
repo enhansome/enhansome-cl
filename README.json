@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-14T15:22:55Z",
+            "last_commit": "2026-08-15T01:35:23Z",
             "owner": "openai",
             "repo": "openai-openapi",
-            "stars": 2471
+            "stars": 2473
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-08-08T16:21:59Z",
             "owner": "cl-ai-project",
             "repo": "cl-mcp",
-            "stars": 82
+            "stars": 83
           }
         },
         {
@@ -289,7 +289,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-08-14T15:47:05Z",
+            "last_commit": "2026-08-15T14:56:01Z",
             "owner": "davypough",
             "repo": "wouldwork",
             "stars": 5
@@ -678,20 +678,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "cl-redis",
-          "description": "Redis client. Expat.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Common Lisp",
-            "last_commit": "2025-02-06T11:29:17Z",
-            "owner": "vseloved",
-            "repo": "cl-redis",
-            "stars": 195
-          }
-        },
-        {
-          "node_type": "item",
           "title": "cl-duckdb",
           "description": "Common Lisp CFFI wrapper around the DuckDB C API. MIT.",
           "children": [],
@@ -734,20 +720,6 @@
         },
         {
           "node_type": "item",
-          "title": "cl-ndbapi",
-          "description": "bindings to the C++ NDB API of RonDB, \"the world's fastest key value store\", by Dydra. GPLv2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Common Lisp",
-            "last_commit": "2025-09-17T14:31:24Z",
-            "owner": "datagraph",
-            "repo": "cl-ndbapi",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
           "title": "cl-bunny",
           "description": "Common Lisp RabbitMQ client based on IOLib. MIT.",
           "children": [],
@@ -772,20 +744,6 @@
             "owner": "CodyReichert",
             "repo": "cl-disque",
             "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lmdb",
-          "description": "Bindings to LMDB, the Lightning Memory-mapped Database, an ACID key-value database with MultiVersion Concurrency Control.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Common Lisp",
-            "last_commit": "2026-06-27T10:59:50Z",
-            "owner": "melisgl",
-            "repo": "lmdb",
-            "stars": 2
           }
         },
         {
@@ -1436,7 +1394,7 @@
             "last_commit": "2026-08-11T13:07:16Z",
             "owner": "s-expressionists",
             "repo": "Eclector",
-            "stars": 129
+            "stars": 130
           }
         },
         {
@@ -1692,7 +1650,7 @@
             "last_commit": "2026-06-20T22:28:40Z",
             "owner": "fosskers",
             "repo": "transducers",
-            "stars": 158
+            "stars": 159
           }
         },
         {
@@ -1731,7 +1689,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-08-07T06:46:30Z",
+            "last_commit": "2026-08-15T00:53:45Z",
             "owner": "slburson",
             "repo": "misc-extensions",
             "stars": 22
@@ -1945,7 +1903,7 @@
                 "last_commit": "2026-08-08T22:20:02Z",
                 "owner": "slime",
                 "repo": "slime",
-                "stars": 2071
+                "stars": 2070
               }
             },
             {
@@ -2391,7 +2349,7 @@
             "last_commit": "2026-03-21T12:50:57Z",
             "owner": "fukamachi",
             "repo": "woo",
-            "stars": 1392
+            "stars": 1391
           }
         },
         {
@@ -4331,7 +4289,7 @@
             "last_commit": "2026-08-08T22:20:02Z",
             "owner": "slime",
             "repo": "slime",
-            "stars": 2071
+            "stars": 2070
           }
         },
         {
@@ -4549,7 +4507,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-07-15T02:30:51Z",
+            "last_commit": "2026-08-14T21:15:43Z",
             "owner": "atgreen",
             "repo": "icl",
             "stars": 190
@@ -4640,7 +4598,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-08-13T21:24:32Z",
+            "last_commit": "2026-08-14T20:43:23Z",
             "owner": "ajberkley",
             "repo": "cl-binary-store",
             "stars": 52
@@ -5550,7 +5508,7 @@
             "last_commit": "2024-06-07T11:48:07Z",
             "owner": "fukamachi",
             "repo": "cl-project",
-            "stars": 276
+            "stars": 275
           }
         },
         {
@@ -5739,9 +5697,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T17:13:19.834Z",
+    "last_updated": "2026-08-15T16:42:49.155Z",
     "original_repository": "CodyReichert/awesome-cl",
-    "original_repository_sha": "aefef835b253214c4980819bba8d4161c910d0c1",
+    "original_repository_sha": "72ebc83521f06324e0aa34aa0b755a54ca2177ef",
     "enhanced_repository": "enhansome/enhansome-cl",
     "enhanced_repository_description": null,
     "title": "Awesome Common Lisp with stars"

@@ -14,7 +14,7 @@
             "last_commit": "2026-08-15T01:35:23Z",
             "owner": "openai",
             "repo": "openai-openapi",
-            "stars": 2473
+            "stars": 2474
           }
         },
         {
@@ -101,7 +101,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T04:56:00Z",
+            "last_commit": "2026-08-16T15:33:00Z",
             "owner": "gornskew",
             "repo": "lisply-mcp",
             "stars": 52
@@ -118,7 +118,7 @@
             "last_commit": "2026-06-30T13:12:01Z",
             "owner": "jsulmont",
             "repo": "mcp-lisp",
-            "stars": 8
+            "stars": 9
           }
         },
         {
@@ -289,7 +289,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-08-15T14:56:01Z",
+            "last_commit": "2026-08-16T14:56:27Z",
             "owner": "davypough",
             "repo": "wouldwork",
             "stars": 5
@@ -312,7 +312,7 @@
             "last_commit": "2024-10-15T03:26:54Z",
             "owner": "norvig",
             "repo": "paip-lisp",
-            "stars": 7505
+            "stars": 7504
           }
         },
         {
@@ -582,7 +582,7 @@
                 "last_commit": "2026-05-31T19:06:48Z",
                 "owner": "bknr-datastore",
                 "repo": "bknr-datastore",
-                "stars": 122
+                "stars": 123
               }
             },
             {
@@ -1903,7 +1903,7 @@
                 "last_commit": "2026-08-08T22:20:02Z",
                 "owner": "slime",
                 "repo": "slime",
-                "stars": 2070
+                "stars": 2069
               }
             },
             {
@@ -1958,7 +1958,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-08-02T13:18:46Z",
+            "last_commit": "2026-08-15T18:36:41Z",
             "owner": "coalton-lang",
             "repo": "coalton",
             "stars": 1742
@@ -2349,7 +2349,7 @@
             "last_commit": "2026-03-21T12:50:57Z",
             "owner": "fukamachi",
             "repo": "woo",
-            "stars": 1391
+            "stars": 1392
           }
         },
         {
@@ -2714,7 +2714,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2025-08-19T00:21:33Z",
+            "last_commit": "2026-08-16T15:03:29Z",
             "owner": "ruricolist",
             "repo": "spinneret",
             "stars": 416
@@ -4289,7 +4289,7 @@
             "last_commit": "2026-08-08T22:20:02Z",
             "owner": "slime",
             "repo": "slime",
-            "stars": 2070
+            "stars": 2069
           }
         },
         {
@@ -4303,7 +4303,7 @@
             "last_commit": "2026-08-01T13:17:57Z",
             "owner": "joaotavora",
             "repo": "sly",
-            "stars": 1432
+            "stars": 1431
           }
         }
       ],
@@ -4507,10 +4507,10 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-08-14T21:15:43Z",
+            "last_commit": "2026-08-16T04:30:11Z",
             "owner": "atgreen",
             "repo": "icl",
-            "stars": 190
+            "stars": 191
           }
         },
         {
@@ -5343,7 +5343,7 @@
             "last_commit": "2026-06-01T05:05:55Z",
             "owner": "fukamachi",
             "repo": "mallet",
-            "stars": 86
+            "stars": 87
           }
         },
         {
@@ -5697,7 +5697,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:42:49.155Z",
+    "last_updated": "2026-08-16T16:43:35.155Z",
     "original_repository": "CodyReichert/awesome-cl",
     "original_repository_sha": "72ebc83521f06324e0aa34aa0b755a54ca2177ef",
     "enhanced_repository": "enhansome/enhansome-cl",

@@ -14,7 +14,7 @@
             "last_commit": "2026-08-15T01:35:23Z",
             "owner": "openai",
             "repo": "openai-openapi",
-            "stars": 2474
+            "stars": 2476
           }
         },
         {
@@ -101,7 +101,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T15:33:00Z",
+            "last_commit": "2026-08-17T02:51:42Z",
             "owner": "gornskew",
             "repo": "lisply-mcp",
             "stars": 52
@@ -215,7 +215,7 @@
             "last_commit": "2019-08-02T11:01:00Z",
             "owner": "vseloved",
             "repo": "cl-nlp",
-            "stars": 237
+            "stars": 238
           }
         },
         {
@@ -229,7 +229,7 @@
             "last_commit": "2025-02-12T18:27:39Z",
             "owner": "ddmcdonald",
             "repo": "sparser",
-            "stars": 66
+            "stars": 67
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2024-10-15T03:26:54Z",
             "owner": "norvig",
             "repo": "paip-lisp",
-            "stars": 7504
+            "stars": 7503
           }
         },
         {
@@ -629,7 +629,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-08-12T17:24:08Z",
+            "last_commit": "2026-08-17T14:12:43Z",
             "owner": "kraison",
             "repo": "vivace-graph",
             "stars": 199
@@ -1788,7 +1788,7 @@
             "last_commit": "2024-04-15T02:26:08Z",
             "owner": "nikodemus",
             "repo": "screamer",
-            "stars": 255
+            "stars": 256
           }
         },
         {
@@ -1903,7 +1903,7 @@
                 "last_commit": "2026-08-08T22:20:02Z",
                 "owner": "slime",
                 "repo": "slime",
-                "stars": 2069
+                "stars": 2070
               }
             },
             {
@@ -2349,7 +2349,7 @@
             "last_commit": "2026-03-21T12:50:57Z",
             "owner": "fukamachi",
             "repo": "woo",
-            "stars": 1392
+            "stars": 1393
           }
         },
         {
@@ -3138,7 +3138,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Common Lisp",
-                "last_commit": "2026-08-10T11:09:11Z",
+                "last_commit": "2026-08-17T10:30:31Z",
                 "owner": "40ants",
                 "repo": "prometheus-gc",
                 "stars": 7
@@ -4289,7 +4289,7 @@
             "last_commit": "2026-08-08T22:20:02Z",
             "owner": "slime",
             "repo": "slime",
-            "stars": 2069
+            "stars": 2070
           }
         },
         {
@@ -4510,7 +4510,7 @@
             "last_commit": "2026-08-16T04:30:11Z",
             "owner": "atgreen",
             "repo": "icl",
-            "stars": 191
+            "stars": 192
           }
         },
         {
@@ -5697,7 +5697,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T16:43:35.155Z",
+    "last_updated": "2026-08-17T16:47:51.093Z",
     "original_repository": "CodyReichert/awesome-cl",
     "original_repository_sha": "72ebc83521f06324e0aa34aa0b755a54ca2177ef",
     "enhanced_repository": "enhansome/enhansome-cl",

@@ -14,7 +14,7 @@
             "last_commit": "2026-08-15T01:35:23Z",
             "owner": "openai",
             "repo": "openai-openapi",
-            "stars": 2476
+            "stars": 2478
           }
         },
         {
@@ -549,7 +549,7 @@
             "last_commit": "2025-03-07T16:48:29Z",
             "owner": "40ants",
             "repo": "cl-prevalence",
-            "stars": 35
+            "stars": 34
           }
         },
         {
@@ -568,7 +568,7 @@
                 "last_commit": "2026-07-29T18:18:16Z",
                 "owner": "screenshotbot",
                 "repo": "screenshotbot-oss",
-                "stars": 302
+                "stars": 303
               }
             },
             {
@@ -629,7 +629,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-08-17T14:12:43Z",
+            "last_commit": "2026-08-18T16:12:55Z",
             "owner": "kraison",
             "repo": "vivace-graph",
             "stars": 199
@@ -687,7 +687,7 @@
             "last_commit": "2026-07-29T16:29:19Z",
             "owner": "ak-coram",
             "repo": "cl-duckdb",
-            "stars": 55
+            "stars": 56
           }
         },
         {
@@ -1903,7 +1903,7 @@
                 "last_commit": "2026-08-08T22:20:02Z",
                 "owner": "slime",
                 "repo": "slime",
-                "stars": 2070
+                "stars": 2071
               }
             },
             {
@@ -2654,7 +2654,7 @@
             "last_commit": "2026-06-05T16:52:11Z",
             "owner": "rabbibotton",
             "repo": "clog",
-            "stars": 1752
+            "stars": 1753
           }
         },
         {
@@ -2714,7 +2714,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-08-16T15:03:29Z",
+            "last_commit": "2026-08-17T21:58:31Z",
             "owner": "ruricolist",
             "repo": "spinneret",
             "stars": 416
@@ -2900,7 +2900,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Common Lisp",
-                "last_commit": "2026-07-27T21:57:47Z",
+                "last_commit": "2026-08-18T08:07:18Z",
                 "owner": "jscl-project",
                 "repo": "jscl",
                 "stars": 958
@@ -2914,7 +2914,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Common Lisp",
-                "last_commit": "2026-07-27T21:57:47Z",
+                "last_commit": "2026-08-18T08:07:18Z",
                 "owner": "jscl-project",
                 "repo": "jscl",
                 "stars": 958
@@ -2938,7 +2938,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-07-27T21:57:47Z",
+            "last_commit": "2026-08-18T08:07:18Z",
             "owner": "jscl-project",
             "repo": "jscl",
             "stars": 958
@@ -4289,7 +4289,7 @@
             "last_commit": "2026-08-08T22:20:02Z",
             "owner": "slime",
             "repo": "slime",
-            "stars": 2070
+            "stars": 2071
           }
         },
         {
@@ -4371,7 +4371,7 @@
             "last_commit": "2026-06-13T00:46:02Z",
             "owner": "nobody-famous",
             "repo": "alive",
-            "stars": 263
+            "stars": 264
           }
         },
         {
@@ -4587,7 +4587,7 @@
             "last_commit": "2023-01-24T06:09:01Z",
             "owner": "skypher",
             "repo": "cl-store",
-            "stars": 61
+            "stars": 60
           }
         },
         {
@@ -5312,10 +5312,10 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-08-06T11:45:05Z",
+            "last_commit": "2026-08-18T11:17:24Z",
             "owner": "ocicl",
             "repo": "ocicl",
-            "stars": 307
+            "stars": 308
           }
         },
         {
@@ -5697,9 +5697,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T16:47:51.093Z",
+    "last_updated": "2026-08-18T16:49:38.332Z",
     "original_repository": "CodyReichert/awesome-cl",
-    "original_repository_sha": "72ebc83521f06324e0aa34aa0b755a54ca2177ef",
+    "original_repository_sha": "082be2987b73d13e706d3a4e52396653667b6f83",
     "enhanced_repository": "enhansome/enhansome-cl",
     "enhanced_repository_description": null,
     "title": "Awesome Common Lisp with stars"

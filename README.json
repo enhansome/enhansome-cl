@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 438416676,
                 "language": null,
-                "last_commit": "2026-08-15T01:35:23Z",
+                "last_commit": "2026-08-19T14:43:45Z",
                 "owner": "openai",
                 "repo": "openai-openapi",
                 "stars": 2479
@@ -392,7 +392,7 @@
             "archived": false,
             "id": 148596909,
             "language": "Common Lisp",
-            "last_commit": "2026-08-15T17:11:47Z",
+            "last_commit": "2026-08-19T13:37:54Z",
             "owner": "openmusic-project",
             "repo": "openmusic",
             "stars": 416
@@ -603,7 +603,7 @@
             "archived": false,
             "id": 18047592,
             "language": "C",
-            "last_commit": "2026-08-19T11:38:44Z",
+            "last_commit": "2026-08-19T12:22:13Z",
             "owner": "csound",
             "repo": "csound",
             "stars": 1501
@@ -1192,7 +1192,7 @@
                 "archived": false,
                 "id": 16188711,
                 "language": "Common Lisp",
-                "last_commit": "2026-08-18T16:12:55Z",
+                "last_commit": "2026-08-19T16:15:20Z",
                 "owner": "kraison",
                 "repo": "vivace-graph",
                 "stars": 199
@@ -2636,7 +2636,7 @@
             "last_commit": "2026-01-18T18:36:11Z",
             "owner": "vydd",
             "repo": "sketch",
-            "stars": 1496
+            "stars": 1497
           }
         },
         {
@@ -3155,7 +3155,7 @@
                 "last_commit": "2026-06-05T16:52:11Z",
                 "owner": "rabbibotton",
                 "repo": "clog",
-                "stars": 1753
+                "stars": 1754
               }
             },
             {
@@ -3193,7 +3193,7 @@
             "archived": false,
             "id": 19966916,
             "language": "Common Lisp",
-            "last_commit": "2026-08-19T03:46:20Z",
+            "last_commit": "2026-08-19T14:05:04Z",
             "owner": "clasp-developers",
             "repo": "clasp",
             "stars": 2782
@@ -4023,7 +4023,7 @@
                     "last_commit": "2026-08-08T22:20:02Z",
                     "owner": "slime",
                     "repo": "slime",
-                    "stars": 2072
+                    "stars": 2073
                   }
                 },
                 {
@@ -4079,7 +4079,7 @@
                 "last_commit": "2026-08-15T18:36:41Z",
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1742
+                "stars": 1743
               }
             },
             {
@@ -4332,7 +4332,7 @@
             "last_commit": "2026-07-18T06:14:09Z",
             "owner": "roswell",
             "repo": "roswell",
-            "stars": 1901
+            "stars": 1902
           }
         },
         {
@@ -5137,7 +5137,7 @@
                     "last_commit": "2026-06-05T16:52:11Z",
                     "owner": "rabbibotton",
                     "repo": "clog",
-                    "stars": 1753
+                    "stars": 1754
                   }
                 },
                 {
@@ -5410,7 +5410,7 @@
                     "last_commit": "2026-08-18T08:07:18Z",
                     "owner": "jscl-project",
                     "repo": "jscl",
-                    "stars": 958
+                    "stars": 959
                   }
                 },
                 {
@@ -5425,7 +5425,7 @@
                     "last_commit": "2026-08-18T08:07:18Z",
                     "owner": "jscl-project",
                     "repo": "jscl",
-                    "stars": 958
+                    "stars": 959
                   }
                 },
                 {
@@ -5451,7 +5451,7 @@
                 "last_commit": "2026-08-18T08:07:18Z",
                 "owner": "jscl-project",
                 "repo": "jscl",
-                "stars": 958
+                "stars": 959
               }
             },
             {
@@ -7511,7 +7511,7 @@
                 "last_commit": "2026-08-08T22:20:02Z",
                 "owner": "slime",
                 "repo": "slime",
-                "stars": 2072
+                "stars": 2073
               }
             },
             {
@@ -9568,7 +9568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:19:57.036Z",
+    "last_updated": "2026-08-19T16:48:19.378Z",
     "original_repository": "CodyReichert/awesome-cl",
     "original_repository_id": 28573641,
     "original_repository_sha": "082be2987b73d13e706d3a4e52396653667b6f83",

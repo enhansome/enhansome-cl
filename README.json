@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 438416676,
                 "language": null,
-                "last_commit": "2026-08-19T14:43:45Z",
+                "last_commit": "2026-08-20T01:22:54Z",
                 "owner": "openai",
                 "repo": "openai-openapi",
-                "stars": 2479
+                "stars": 2480
               }
             },
             {
@@ -314,7 +314,7 @@
                 "archived": false,
                 "id": 857766896,
                 "language": "Common Lisp",
-                "last_commit": "2026-08-19T05:05:03Z",
+                "last_commit": "2026-08-20T14:33:02Z",
                 "owner": "davypough",
                 "repo": "wouldwork",
                 "stars": 5
@@ -606,7 +606,7 @@
             "last_commit": "2026-08-19T12:22:13Z",
             "owner": "csound",
             "repo": "csound",
-            "stars": 1501
+            "stars": 1502
           }
         },
         {
@@ -1126,7 +1126,7 @@
                     "last_commit": "2026-07-29T18:18:16Z",
                     "owner": "screenshotbot",
                     "repo": "screenshotbot-oss",
-                    "stars": 303
+                    "stars": 302
                   }
                 },
                 {
@@ -1192,7 +1192,7 @@
                 "archived": false,
                 "id": 16188711,
                 "language": "Common Lisp",
-                "last_commit": "2026-08-19T16:15:20Z",
+                "last_commit": "2026-08-20T14:16:51Z",
                 "owner": "kraison",
                 "repo": "vivace-graph",
                 "stars": 199
@@ -1597,7 +1597,7 @@
                 "last_commit": "2026-03-03T14:44:17Z",
                 "owner": "Zulu-Inuoe",
                 "repo": "jzon",
-                "stars": 197
+                "stars": 198
               }
             },
             {
@@ -2267,7 +2267,7 @@
                 "last_commit": "2026-07-16T15:45:49Z",
                 "owner": "cffi",
                 "repo": "cffi",
-                "stars": 489
+                "stars": 488
               }
             },
             {
@@ -3193,7 +3193,7 @@
             "archived": false,
             "id": 19966916,
             "language": "Common Lisp",
-            "last_commit": "2026-08-19T14:05:04Z",
+            "last_commit": "2026-08-20T15:28:19Z",
             "owner": "clasp-developers",
             "repo": "clasp",
             "stars": 2782
@@ -3258,7 +3258,7 @@
                 "archived": false,
                 "id": 762065551,
                 "language": null,
-                "last_commit": "2026-08-19T02:37:31Z",
+                "last_commit": "2026-08-20T02:36:35Z",
                 "owner": "olnw",
                 "repo": "sbcl-builds",
                 "stars": 1
@@ -4020,10 +4020,10 @@
                     "archived": false,
                     "id": 15344025,
                     "language": "Common Lisp",
-                    "last_commit": "2026-08-08T22:20:02Z",
+                    "last_commit": "2026-08-20T09:02:52Z",
                     "owner": "slime",
                     "repo": "slime",
-                    "stars": 2073
+                    "stars": 2075
                   }
                 },
                 {
@@ -4079,7 +4079,7 @@
                 "last_commit": "2026-08-15T18:36:41Z",
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1743
+                "stars": 1744
               }
             },
             {
@@ -4363,7 +4363,7 @@
             "last_commit": "2026-06-08T19:59:00Z",
             "owner": "fukamachi",
             "repo": "qlot",
-            "stars": 572
+            "stars": 573
           }
         },
         {
@@ -4393,7 +4393,7 @@
             "last_commit": "2026-08-04T03:48:01Z",
             "owner": "fosskers",
             "repo": "vend",
-            "stars": 125
+            "stars": 126
           }
         },
         {
@@ -5410,7 +5410,7 @@
                     "last_commit": "2026-08-18T08:07:18Z",
                     "owner": "jscl-project",
                     "repo": "jscl",
-                    "stars": 959
+                    "stars": 960
                   }
                 },
                 {
@@ -5425,7 +5425,7 @@
                     "last_commit": "2026-08-18T08:07:18Z",
                     "owner": "jscl-project",
                     "repo": "jscl",
-                    "stars": 959
+                    "stars": 960
                   }
                 },
                 {
@@ -5451,7 +5451,7 @@
                 "last_commit": "2026-08-18T08:07:18Z",
                 "owner": "jscl-project",
                 "repo": "jscl",
-                "stars": 959
+                "stars": 960
               }
             },
             {
@@ -6917,7 +6917,7 @@
                 "last_commit": "2026-08-17T18:33:43Z",
                 "owner": "CodyReichert",
                 "repo": "awesome-cl",
-                "stars": 2966
+                "stars": 2968
               }
             }
           ],
@@ -7508,10 +7508,10 @@
                 "archived": false,
                 "id": 15344025,
                 "language": "Common Lisp",
-                "last_commit": "2026-08-08T22:20:02Z",
+                "last_commit": "2026-08-20T09:02:52Z",
                 "owner": "slime",
                 "repo": "slime",
-                "stars": 2073
+                "stars": 2075
               }
             },
             {
@@ -7660,7 +7660,7 @@
                 "last_commit": "2026-07-29T02:00:47Z",
                 "owner": "kchanqvq",
                 "repo": "olive",
-                "stars": 24
+                "stars": 25
               }
             }
           ],
@@ -9568,7 +9568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:48:19.378Z",
+    "last_updated": "2026-08-20T16:52:32.686Z",
     "original_repository": "CodyReichert/awesome-cl",
     "original_repository_id": 28573641,
     "original_repository_sha": "082be2987b73d13e706d3a4e52396653667b6f83",

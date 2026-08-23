@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T20:48:18Z",
                 "owner": "openai",
                 "repo": "openai-openapi",
-                "stars": 2480
+                "stars": 2481
               }
             },
             {
@@ -96,7 +96,7 @@
                 "archived": false,
                 "id": 1003255496,
                 "language": "Common Lisp",
-                "last_commit": "2026-02-15T21:59:35Z",
+                "last_commit": "2026-08-22T21:53:48Z",
                 "owner": "40ants",
                 "repo": "mcp",
                 "stars": 54
@@ -111,7 +111,7 @@
                 "archived": false,
                 "id": 961228236,
                 "language": "JavaScript",
-                "last_commit": "2026-08-17T02:51:42Z",
+                "last_commit": "2026-08-23T13:37:26Z",
                 "owner": "gornskew",
                 "repo": "lisply-mcp",
                 "stars": 52
@@ -366,7 +366,7 @@
                 "archived": false,
                 "id": 1173367266,
                 "language": "Common Lisp",
-                "last_commit": "2026-03-05T21:23:10Z",
+                "last_commit": "2026-08-22T21:52:33Z",
                 "owner": "40ants",
                 "repo": "microgpt",
                 "stars": 26
@@ -618,7 +618,7 @@
             "archived": false,
             "id": 14809757,
             "language": "Common Lisp",
-            "last_commit": "2026-08-11T12:39:38Z",
+            "last_commit": "2026-08-23T04:35:09Z",
             "owner": "byulparan",
             "repo": "cl-collider",
             "stars": 263
@@ -746,7 +746,7 @@
                 "archived": false,
                 "id": 977486146,
                 "language": "C",
-                "last_commit": "2026-08-09T12:14:24Z",
+                "last_commit": "2026-08-23T04:13:18Z",
                 "owner": "saman-pasha",
                 "repo": "cicili",
                 "stars": 47
@@ -775,7 +775,7 @@
             "last_commit": "2024-10-11T13:51:24Z",
             "owner": "sharplispers",
             "repo": "ironclad",
-            "stars": 204
+            "stars": 205
           }
         },
         {
@@ -1092,7 +1092,7 @@
                     "archived": false,
                     "id": 189152976,
                     "language": "Common Lisp",
-                    "last_commit": "2019-06-10T17:31:20Z",
+                    "last_commit": "2026-08-22T21:39:27Z",
                     "owner": "40ants",
                     "repo": "cl-prevalence-multimaster",
                     "stars": 5
@@ -1103,7 +1103,7 @@
                 "archived": false,
                 "id": 110344248,
                 "language": "Common Lisp",
-                "last_commit": "2025-03-07T16:48:29Z",
+                "last_commit": "2026-08-22T21:49:46Z",
                 "owner": "40ants",
                 "repo": "cl-prevalence",
                 "stars": 34
@@ -1123,7 +1123,7 @@
                     "archived": false,
                     "id": 361308385,
                     "language": "Common Lisp",
-                    "last_commit": "2026-08-21T19:19:43Z",
+                    "last_commit": "2026-08-22T23:28:26Z",
                     "owner": "screenshotbot",
                     "repo": "screenshotbot-oss",
                     "stars": 302
@@ -1192,7 +1192,7 @@
                 "archived": false,
                 "id": 16188711,
                 "language": "Common Lisp",
-                "last_commit": "2026-08-22T10:58:00Z",
+                "last_commit": "2026-08-23T14:40:18Z",
                 "owner": "kraison",
                 "repo": "vivace-graph",
                 "stars": 199
@@ -2164,7 +2164,7 @@
             "archived": false,
             "id": 126582466,
             "language": "Common Lisp",
-            "last_commit": "2025-06-13T20:21:22Z",
+            "last_commit": "2026-08-22T21:51:29Z",
             "owner": "40ants",
             "repo": "base-lisp-image",
             "stars": 42
@@ -2195,7 +2195,7 @@
             "archived": false,
             "id": 336796792,
             "language": "Common Lisp",
-            "last_commit": "2024-12-14T22:18:53Z",
+            "last_commit": "2026-08-22T21:38:31Z",
             "owner": "40ants",
             "repo": "setup-lisp",
             "stars": 30
@@ -3136,7 +3136,7 @@
                 "last_commit": "2026-08-12T12:56:41Z",
                 "owner": "lem-project",
                 "repo": "lem",
-                "stars": 3028
+                "stars": 3029
               }
             }
           ]
@@ -3155,7 +3155,7 @@
                 "last_commit": "2026-06-05T16:52:11Z",
                 "owner": "rabbibotton",
                 "repo": "clog",
-                "stars": 1753
+                "stars": 1754
               }
             },
             {
@@ -3258,7 +3258,7 @@
                 "archived": false,
                 "id": 762065551,
                 "language": null,
-                "last_commit": "2026-08-22T02:34:41Z",
+                "last_commit": "2026-08-23T02:43:40Z",
                 "owner": "olnw",
                 "repo": "sbcl-builds",
                 "stars": 1
@@ -3395,7 +3395,7 @@
             "last_commit": "2024-11-15T13:01:32Z",
             "owner": "alex-gutev",
             "repo": "generic-cl",
-            "stars": 161
+            "stars": 162
           }
         },
         {
@@ -3601,7 +3601,7 @@
                 "last_commit": "2026-05-12T10:18:24Z",
                 "owner": "alex-gutev",
                 "repo": "static-dispatch",
-                "stars": 80
+                "stars": 81
               }
             },
             {
@@ -4079,7 +4079,7 @@
                 "last_commit": "2026-08-15T18:36:41Z",
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1745
+                "stars": 1747
               }
             },
             {
@@ -4413,7 +4413,7 @@
                 "last_commit": "2026-08-19T11:54:36Z",
                 "owner": "rudolfochrist",
                 "repo": "ql-https",
-                "stars": 37
+                "stars": 38
               }
             }
           ]
@@ -4519,7 +4519,7 @@
                 "archived": false,
                 "id": 614130247,
                 "language": "Nix",
-                "last_commit": "2026-08-13T13:21:29Z",
+                "last_commit": "2026-08-23T09:39:38Z",
                 "owner": "hraban",
                 "repo": "cl-nix-lite",
                 "stars": 57
@@ -4564,7 +4564,7 @@
                 "archived": false,
                 "id": 72285355,
                 "language": "Common Lisp",
-                "last_commit": "2024-07-29T08:51:01Z",
+                "last_commit": "2026-08-22T21:47:22Z",
                 "owner": "40ants",
                 "repo": "cl-brewer",
                 "stars": 21
@@ -5137,7 +5137,7 @@
                     "last_commit": "2026-06-05T16:52:11Z",
                     "owner": "rabbibotton",
                     "repo": "clog",
-                    "stars": 1753
+                    "stars": 1754
                   }
                 },
                 {
@@ -5165,7 +5165,7 @@
                     "archived": false,
                     "id": 443410451,
                     "language": "Common Lisp",
-                    "last_commit": "2026-05-09T15:48:25Z",
+                    "last_commit": "2026-08-22T21:59:05Z",
                     "owner": "40ants",
                     "repo": "reblocks",
                     "stars": 101
@@ -5666,7 +5666,7 @@
                 "archived": false,
                 "id": 342921235,
                 "language": "Common Lisp",
-                "last_commit": "2025-02-25T13:20:39Z",
+                "last_commit": "2026-08-22T21:41:57Z",
                 "owner": "40ants",
                 "repo": "ci",
                 "stars": 20
@@ -5723,7 +5723,7 @@
                     "archived": false,
                     "id": 592001616,
                     "language": "Common Lisp",
-                    "last_commit": "2026-08-17T10:30:31Z",
+                    "last_commit": "2026-08-22T22:03:02Z",
                     "owner": "40ants",
                     "repo": "prometheus-gc",
                     "stars": 7
@@ -5900,7 +5900,7 @@
                     "archived": false,
                     "id": 154045740,
                     "language": "Common Lisp",
-                    "last_commit": "2019-03-01T05:50:59Z",
+                    "last_commit": "2026-08-22T21:39:09Z",
                     "owner": "40ants",
                     "repo": "mito-email-auth",
                     "stars": 5
@@ -6147,7 +6147,7 @@
                     "archived": false,
                     "id": 147615766,
                     "language": "Common Lisp",
-                    "last_commit": "2024-03-23T11:04:46Z",
+                    "last_commit": "2026-08-22T21:46:31Z",
                     "owner": "40ants",
                     "repo": "mailgun",
                     "stars": 12
@@ -6184,7 +6184,7 @@
                     "archived": false,
                     "id": 557887316,
                     "language": "Common Lisp",
-                    "last_commit": "2026-01-15T12:40:52Z",
+                    "last_commit": "2026-08-22T21:53:19Z",
                     "owner": "40ants",
                     "repo": "openrpc",
                     "stars": 34
@@ -6751,7 +6751,7 @@
                 "last_commit": "2026-05-09T12:44:39Z",
                 "owner": "Lisp-Stat",
                 "repo": "plot",
-                "stars": 37
+                "stars": 38
               }
             },
             {
@@ -6917,7 +6917,7 @@
                 "last_commit": "2026-08-17T18:33:43Z",
                 "owner": "CodyReichert",
                 "repo": "awesome-cl",
-                "stars": 2969
+                "stars": 2970
               }
             }
           ],
@@ -8243,7 +8243,7 @@
             "archived": false,
             "id": 77704607,
             "language": "Common Lisp",
-            "last_commit": "2026-08-10T11:13:58Z",
+            "last_commit": "2026-08-22T22:02:07Z",
             "owner": "40ants",
             "repo": "cl-hamcrest",
             "stars": 19
@@ -8501,7 +8501,7 @@
                     "archived": false,
                     "id": 360803374,
                     "language": "Common Lisp",
-                    "last_commit": "2025-02-27T12:09:13Z",
+                    "last_commit": "2026-08-22T21:48:16Z",
                     "owner": "40ants",
                     "repo": "humanize-duration",
                     "stars": 9
@@ -8669,7 +8669,7 @@
                 "archived": false,
                 "id": 240344291,
                 "language": "Common Lisp",
-                "last_commit": "2023-08-14T09:35:58Z",
+                "last_commit": "2026-08-22T21:43:18Z",
                 "owner": "40ants",
                 "repo": "cl-flamegraph",
                 "stars": 81
@@ -8853,7 +8853,7 @@
                     "archived": false,
                     "id": 352436034,
                     "language": "Common Lisp",
-                    "last_commit": "2026-04-10T23:27:53Z",
+                    "last_commit": "2026-08-22T22:04:45Z",
                     "owner": "40ants",
                     "repo": "doc",
                     "stars": 28
@@ -9402,7 +9402,7 @@
                 "archived": false,
                 "id": 88334172,
                 "language": "Python",
-                "last_commit": "2024-03-23T10:11:55Z",
+                "last_commit": "2026-08-22T21:46:09Z",
                 "owner": "40ants",
                 "repo": "cl-project-with-docs",
                 "stars": 5
@@ -9568,7 +9568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T16:42:44.391Z",
+    "last_updated": "2026-08-23T16:44:13.309Z",
     "original_repository": "CodyReichert/awesome-cl",
     "original_repository_id": 28573641,
     "original_repository_sha": "082be2987b73d13e706d3a4e52396653667b6f83",

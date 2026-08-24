@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 438416676,
                 "language": null,
-                "last_commit": "2026-08-21T20:48:18Z",
+                "last_commit": "2026-08-24T16:19:53Z",
                 "owner": "openai",
                 "repo": "openai-openapi",
                 "stars": 2483
@@ -1656,7 +1656,7 @@
                 "last_commit": "2026-07-24T14:35:08Z",
                 "owner": "dimitri",
                 "repo": "pgloader",
-                "stars": 6498
+                "stars": 6499
               }
             }
           ],
@@ -2725,7 +2725,7 @@
                 "archived": false,
                 "id": 910583288,
                 "language": "Java",
-                "last_commit": "2026-08-24T13:17:54Z",
+                "last_commit": "2026-08-24T16:44:20Z",
                 "owner": "atgreen",
                 "repo": "openldk",
                 "stars": 269
@@ -3616,7 +3616,7 @@
             "archived": false,
             "id": 19966916,
             "language": "Common Lisp",
-            "last_commit": "2026-08-24T00:47:08Z",
+            "last_commit": "2026-08-24T16:19:37Z",
             "owner": "clasp-developers",
             "repo": "clasp",
             "stars": 2782
@@ -4635,7 +4635,7 @@
                 "last_commit": "2026-08-15T18:36:41Z",
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1750
+                "stars": 1751
               }
             },
             {
@@ -5163,7 +5163,7 @@
                 "archived": false,
                 "id": 614130247,
                 "language": "Nix",
-                "last_commit": "2026-08-24T04:32:59Z",
+                "last_commit": "2026-08-24T14:17:42Z",
                 "owner": "hraban",
                 "repo": "cl-nix-lite",
                 "stars": 57
@@ -5906,7 +5906,7 @@
                 "last_commit": "2026-08-17T21:58:31Z",
                 "owner": "ruricolist",
                 "repo": "spinneret",
-                "stars": 416
+                "stars": 417
               }
             },
             {
@@ -7865,7 +7865,7 @@
                 "last_commit": "2026-08-17T18:33:43Z",
                 "owner": "CodyReichert",
                 "repo": "awesome-cl",
-                "stars": 2970
+                "stars": 2971
               }
             }
           ],
@@ -11194,7 +11194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:59:53.642Z",
+    "last_updated": "2026-08-24T16:56:55.822Z",
     "original_repository": "CodyReichert/awesome-cl",
     "original_repository_id": 28573641,
     "original_repository_sha": "082be2987b73d13e706d3a4e52396653667b6f83",

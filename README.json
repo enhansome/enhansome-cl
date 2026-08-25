@@ -1310,7 +1310,7 @@
                 "archived": false,
                 "id": 16188711,
                 "language": "Common Lisp",
-                "last_commit": "2026-08-24T23:05:02Z",
+                "last_commit": "2026-08-25T16:09:19Z",
                 "owner": "kraison",
                 "repo": "vivace-graph",
                 "stars": 199
@@ -2725,7 +2725,7 @@
                 "archived": false,
                 "id": 910583288,
                 "language": "Java",
-                "last_commit": "2026-08-25T05:33:06Z",
+                "last_commit": "2026-08-25T13:22:59Z",
                 "owner": "atgreen",
                 "repo": "openldk",
                 "stars": 269
@@ -2762,7 +2762,7 @@
                 "archived": false,
                 "id": 527194895,
                 "language": "Common Lisp",
-                "last_commit": "2026-08-10T07:42:37Z",
+                "last_commit": "2026-08-25T05:58:25Z",
                 "owner": "byulparan",
                 "repo": "cl-nextstep",
                 "stars": 47
@@ -3507,7 +3507,7 @@
                 "last_commit": "2026-08-12T12:56:41Z",
                 "owner": "lem-project",
                 "repo": "lem",
-                "stars": 3029
+                "stars": 3031
               }
             }
           ]
@@ -3619,7 +3619,7 @@
             "last_commit": "2026-08-24T19:40:08Z",
             "owner": "clasp-developers",
             "repo": "clasp",
-            "stars": 2782
+            "stars": 2783
           }
         },
         {
@@ -5163,7 +5163,7 @@
                 "archived": false,
                 "id": 614130247,
                 "language": "Nix",
-                "last_commit": "2026-08-25T04:18:32Z",
+                "last_commit": "2026-08-25T14:28:51Z",
                 "owner": "hraban",
                 "repo": "cl-nix-lite",
                 "stars": 57
@@ -6325,7 +6325,7 @@
                 "archived": false,
                 "id": 1064821400,
                 "language": "Common Lisp",
-                "last_commit": "2026-08-14T11:54:06Z",
+                "last_commit": "2026-08-25T10:07:21Z",
                 "owner": "fsmunoz",
                 "repo": "datastar-cl",
                 "stars": 64
@@ -7865,7 +7865,7 @@
                 "last_commit": "2026-08-17T18:33:43Z",
                 "owner": "CodyReichert",
                 "repo": "awesome-cl",
-                "stars": 2971
+                "stars": 2973
               }
             }
           ],
@@ -8892,7 +8892,7 @@
                 "last_commit": "2026-08-12T12:56:41Z",
                 "owner": "lem-project",
                 "repo": "lem",
-                "stars": 3029
+                "stars": 3031
               }
             }
           ],
@@ -9228,7 +9228,7 @@
                 "last_commit": "2026-08-16T04:30:11Z",
                 "owner": "atgreen",
                 "repo": "icl",
-                "stars": 192
+                "stars": 193
               }
             },
             {
@@ -11194,7 +11194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:54:37.355Z",
+    "last_updated": "2026-08-25T16:57:37.160Z",
     "original_repository": "CodyReichert/awesome-cl",
     "original_repository_id": 28573641,
     "original_repository_sha": "082be2987b73d13e706d3a4e52396653667b6f83",

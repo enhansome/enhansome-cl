@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T16:19:53Z",
                 "owner": "openai",
                 "repo": "openai-openapi",
-                "stars": 2483
+                "stars": 2484
               }
             },
             {
@@ -849,7 +849,7 @@
                 "archived": false,
                 "id": 977486146,
                 "language": "C",
-                "last_commit": "2026-08-23T04:13:18Z",
+                "last_commit": "2026-08-25T04:19:06Z",
                 "owner": "saman-pasha",
                 "repo": "cicili",
                 "stars": 47
@@ -1241,7 +1241,7 @@
                     "archived": false,
                     "id": 361308385,
                     "language": "Common Lisp",
-                    "last_commit": "2026-08-24T03:32:41Z",
+                    "last_commit": "2026-08-24T19:26:52Z",
                     "owner": "screenshotbot",
                     "repo": "screenshotbot-oss",
                     "stars": 302
@@ -1310,7 +1310,7 @@
                 "archived": false,
                 "id": 16188711,
                 "language": "Common Lisp",
-                "last_commit": "2026-08-24T08:34:13Z",
+                "last_commit": "2026-08-24T23:05:02Z",
                 "owner": "kraison",
                 "repo": "vivace-graph",
                 "stars": 199
@@ -1384,7 +1384,7 @@
                 "archived": false,
                 "id": 217709551,
                 "language": "Common Lisp",
-                "last_commit": "2026-08-24T01:48:04Z",
+                "last_commit": "2026-08-25T01:59:09Z",
                 "owner": "scalaxy",
                 "repo": "scalaxy",
                 "stars": 17
@@ -2497,7 +2497,7 @@
                 "last_commit": "2026-08-21T03:06:21Z",
                 "owner": "cffi",
                 "repo": "cffi",
-                "stars": 488
+                "stars": 489
               }
             },
             {
@@ -2725,7 +2725,7 @@
                 "archived": false,
                 "id": 910583288,
                 "language": "Java",
-                "last_commit": "2026-08-24T16:44:20Z",
+                "last_commit": "2026-08-25T05:33:06Z",
                 "owner": "atgreen",
                 "repo": "openldk",
                 "stars": 269
@@ -3616,7 +3616,7 @@
             "archived": false,
             "id": 19966916,
             "language": "Common Lisp",
-            "last_commit": "2026-08-24T16:19:37Z",
+            "last_commit": "2026-08-24T19:40:08Z",
             "owner": "clasp-developers",
             "repo": "clasp",
             "stars": 2782
@@ -3681,7 +3681,7 @@
                 "archived": false,
                 "id": 762065551,
                 "language": null,
-                "last_commit": "2026-08-24T02:42:54Z",
+                "last_commit": "2026-08-25T02:37:06Z",
                 "owner": "olnw",
                 "repo": "sbcl-builds",
                 "stars": 1
@@ -5163,7 +5163,7 @@
                 "archived": false,
                 "id": 614130247,
                 "language": "Nix",
-                "last_commit": "2026-08-24T14:17:42Z",
+                "last_commit": "2026-08-25T04:18:32Z",
                 "owner": "hraban",
                 "repo": "cl-nix-lite",
                 "stars": 57
@@ -5816,7 +5816,7 @@
                         "last_commit": "2026-05-08T20:36:30Z",
                         "owner": "ultralisp",
                         "repo": "ultralisp",
-                        "stars": 258
+                        "stars": 259
                       }
                     }
                   ],
@@ -11194,7 +11194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:56:55.822Z",
+    "last_updated": "2026-08-25T05:54:37.355Z",
     "original_repository": "CodyReichert/awesome-cl",
     "original_repository_id": 28573641,
     "original_repository_sha": "082be2987b73d13e706d3a4e52396653667b6f83",

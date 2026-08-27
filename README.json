@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 438416676,
                 "language": null,
-                "last_commit": "2026-08-26T01:12:49Z",
+                "last_commit": "2026-08-27T02:19:01Z",
                 "owner": "openai",
                 "repo": "openai-openapi",
                 "stars": 2487
@@ -359,7 +359,7 @@
                 "archived": false,
                 "id": 857766896,
                 "language": "Common Lisp",
-                "last_commit": "2026-08-25T23:01:24Z",
+                "last_commit": "2026-08-26T22:06:04Z",
                 "owner": "davypough",
                 "repo": "wouldwork",
                 "stars": 5
@@ -384,7 +384,7 @@
                 "last_commit": "2024-10-15T03:26:54Z",
                 "owner": "norvig",
                 "repo": "paip-lisp",
-                "stars": 7502
+                "stars": 7503
               }
             },
             {
@@ -440,7 +440,7 @@
             "last_commit": "2026-08-19T13:37:54Z",
             "owner": "openmusic-project",
             "repo": "openmusic",
-            "stars": 415
+            "stars": 416
           }
         },
         {
@@ -849,7 +849,7 @@
                 "archived": false,
                 "id": 977486146,
                 "language": "C",
-                "last_commit": "2026-08-25T04:19:06Z",
+                "last_commit": "2026-08-26T23:09:07Z",
                 "owner": "saman-pasha",
                 "repo": "cicili",
                 "stars": 47
@@ -941,7 +941,7 @@
             "archived": false,
             "id": 197984479,
             "language": "Common Lisp",
-            "last_commit": "2026-08-21T21:14:23Z",
+            "last_commit": "2026-08-26T18:38:31Z",
             "owner": "rodentrabies",
             "repo": "bp",
             "stars": 39
@@ -1241,7 +1241,7 @@
                     "archived": false,
                     "id": 361308385,
                     "language": "Common Lisp",
-                    "last_commit": "2026-08-26T16:41:06Z",
+                    "last_commit": "2026-08-27T01:54:09Z",
                     "owner": "screenshotbot",
                     "repo": "screenshotbot-oss",
                     "stars": 302
@@ -1310,7 +1310,7 @@
                 "archived": false,
                 "id": 16188711,
                 "language": "Common Lisp",
-                "last_commit": "2026-08-26T14:56:18Z",
+                "last_commit": "2026-08-27T11:21:07Z",
                 "owner": "kraison",
                 "repo": "vivace-graph",
                 "stars": 199
@@ -1656,7 +1656,7 @@
                 "last_commit": "2026-07-24T14:35:08Z",
                 "owner": "dimitri",
                 "repo": "pgloader",
-                "stars": 6504
+                "stars": 6505
               }
             }
           ],
@@ -2725,7 +2725,7 @@
                 "archived": false,
                 "id": 910583288,
                 "language": "Java",
-                "last_commit": "2026-08-26T16:47:53Z",
+                "last_commit": "2026-08-27T11:24:26Z",
                 "owner": "atgreen",
                 "repo": "openldk",
                 "stars": 269
@@ -3651,7 +3651,7 @@
                 "archived": false,
                 "id": 603296780,
                 "language": "Shell",
-                "last_commit": "2026-08-26T17:11:23Z",
+                "last_commit": "2026-08-26T17:23:04Z",
                 "owner": "sionescu",
                 "repo": "sbcl-goodies",
                 "stars": 50
@@ -3681,7 +3681,7 @@
                 "archived": false,
                 "id": 762065551,
                 "language": null,
-                "last_commit": "2026-08-26T02:45:08Z",
+                "last_commit": "2026-08-27T11:18:56Z",
                 "owner": "olnw",
                 "repo": "sbcl-builds",
                 "stars": 1
@@ -3917,7 +3917,7 @@
                 "last_commit": "2024-09-04T01:51:11Z",
                 "owner": "guicho271828",
                 "repo": "trivia",
-                "stars": 358
+                "stars": 359
               }
             }
           ],
@@ -4576,7 +4576,7 @@
                     "archived": false,
                     "id": 15344025,
                     "language": "Common Lisp",
-                    "last_commit": "2026-08-25T21:53:34Z",
+                    "last_commit": "2026-08-27T02:17:27Z",
                     "owner": "slime",
                     "repo": "slime",
                     "stars": 2079
@@ -4911,7 +4911,7 @@
                     "last_commit": "2024-10-15T03:26:54Z",
                     "owner": "norvig",
                     "repo": "paip-lisp",
-                    "stars": 7502
+                    "stars": 7503
                   }
                 }
               ]
@@ -4976,7 +4976,7 @@
             "last_commit": "2026-07-18T06:14:09Z",
             "owner": "roswell",
             "repo": "roswell",
-            "stars": 1903
+            "stars": 1904
           }
         },
         {
@@ -5163,7 +5163,7 @@
                 "archived": false,
                 "id": 614130247,
                 "language": "Nix",
-                "last_commit": "2026-08-26T08:21:47Z",
+                "last_commit": "2026-08-27T04:26:49Z",
                 "owner": "hraban",
                 "repo": "cl-nix-lite",
                 "stars": 57
@@ -7143,7 +7143,7 @@
                     "last_commit": "2024-04-03T15:55:30Z",
                     "owner": "kjinho",
                     "repo": "ciao",
-                    "stars": 28
+                    "stars": 29
                   }
                 },
                 {
@@ -7981,7 +7981,7 @@
                 "archived": false,
                 "id": 308392718,
                 "language": "Common Lisp",
-                "last_commit": "2026-08-15T17:34:08Z",
+                "last_commit": "2026-08-26T22:03:42Z",
                 "owner": "dbmcclain",
                 "repo": "Lisp-Actors",
                 "stars": 113
@@ -8627,7 +8627,7 @@
                 "archived": false,
                 "id": 15344025,
                 "language": "Common Lisp",
-                "last_commit": "2026-08-25T21:53:34Z",
+                "last_commit": "2026-08-27T02:17:27Z",
                 "owner": "slime",
                 "repo": "slime",
                 "stars": 2079
@@ -8645,7 +8645,7 @@
                 "last_commit": "2026-08-01T13:17:57Z",
                 "owner": "joaotavora",
                 "repo": "sly",
-                "stars": 1431
+                "stars": 1432
               }
             },
             {
@@ -8938,7 +8938,7 @@
                     "archived": false,
                     "id": 15344025,
                     "language": "Common Lisp",
-                    "last_commit": "2026-08-25T21:53:34Z",
+                    "last_commit": "2026-08-27T02:17:27Z",
                     "owner": "slime",
                     "repo": "slime",
                     "stars": 2079
@@ -9224,11 +9224,11 @@
               "repo_info": {
                 "archived": false,
                 "id": 1115688980,
-                "language": "Common Lisp",
-                "last_commit": "2026-08-26T17:09:56Z",
+                "language": null,
+                "last_commit": "2026-08-27T03:26:10Z",
                 "owner": "atgreen",
                 "repo": "icl",
-                "stars": 193
+                "stars": 195
               }
             },
             {
@@ -11194,9 +11194,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T17:19:43.884Z",
-    "original_repository": "CodyReichert/awesome-cl",
-    "original_repository_id": 28573641,
+    "last_updated": "2026-08-27T11:31:15.586Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 28573641,
+      "language": "Makefile",
+      "last_commit": "2026-08-17T18:33:43Z",
+      "owner": "CodyReichert",
+      "repo": "awesome-cl",
+      "stars": 2973
+    },
     "original_repository_sha": "082be2987b73d13e706d3a4e52396653667b6f83",
     "enhanced_repository": "enhansome/enhansome-cl",
     "enhanced_repository_description": null,

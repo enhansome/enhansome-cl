@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 438416676,
                 "language": null,
-                "last_commit": "2026-08-27T02:19:01Z",
+                "last_commit": "2026-08-27T14:51:31Z",
                 "owner": "openai",
                 "repo": "openai-openapi",
-                "stars": 2487
+                "stars": 2489
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-08T16:21:59Z",
                 "owner": "cl-ai-project",
                 "repo": "cl-mcp",
-                "stars": 83
+                "stars": 84
               }
             },
             {
@@ -1241,7 +1241,7 @@
                     "archived": false,
                     "id": 361308385,
                     "language": "Common Lisp",
-                    "last_commit": "2026-08-27T01:54:09Z",
+                    "last_commit": "2026-08-27T20:47:38Z",
                     "owner": "screenshotbot",
                     "repo": "screenshotbot-oss",
                     "stars": 302
@@ -1310,7 +1310,7 @@
                 "archived": false,
                 "id": 16188711,
                 "language": "Common Lisp",
-                "last_commit": "2026-08-27T11:21:07Z",
+                "last_commit": "2026-08-27T23:15:15Z",
                 "owner": "kraison",
                 "repo": "vivace-graph",
                 "stars": 199
@@ -1656,7 +1656,7 @@
                 "last_commit": "2026-07-24T14:35:08Z",
                 "owner": "dimitri",
                 "repo": "pgloader",
-                "stars": 6505
+                "stars": 6506
               }
             }
           ],
@@ -2725,7 +2725,7 @@
                 "archived": false,
                 "id": 910583288,
                 "language": "Java",
-                "last_commit": "2026-08-27T11:24:26Z",
+                "last_commit": "2026-08-27T16:22:39Z",
                 "owner": "atgreen",
                 "repo": "openldk",
                 "stars": 269
@@ -3328,7 +3328,7 @@
             "last_commit": "2025-02-03T03:39:00Z",
             "owner": "lispnik",
             "repo": "iup",
-            "stars": 157
+            "stars": 158
           }
         },
         {
@@ -3507,7 +3507,7 @@
                 "last_commit": "2026-08-12T12:56:41Z",
                 "owner": "lem-project",
                 "repo": "lem",
-                "stars": 3032
+                "stars": 3033
               }
             }
           ]
@@ -3824,7 +3824,7 @@
             "last_commit": "2026-07-15T22:35:25Z",
             "owner": "ruricolist",
             "repo": "serapeum",
-            "stars": 505
+            "stars": 506
           }
         },
         {
@@ -5163,7 +5163,7 @@
                 "archived": false,
                 "id": 614130247,
                 "language": "Nix",
-                "last_commit": "2026-08-27T04:26:49Z",
+                "last_commit": "2026-08-27T17:23:27Z",
                 "owner": "hraban",
                 "repo": "cl-nix-lite",
                 "stars": 57
@@ -8892,7 +8892,7 @@
                 "last_commit": "2026-08-12T12:56:41Z",
                 "owner": "lem-project",
                 "repo": "lem",
-                "stars": 3032
+                "stars": 3033
               }
             }
           ],
@@ -9225,7 +9225,7 @@
                 "archived": false,
                 "id": 1115688980,
                 "language": null,
-                "last_commit": "2026-08-27T03:26:10Z",
+                "last_commit": "2026-08-27T16:13:14Z",
                 "owner": "atgreen",
                 "repo": "icl",
                 "stars": 195
@@ -11194,7 +11194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:31:15.586Z",
+    "last_updated": "2026-08-28T00:57:31.406Z",
     "original_repository_info": {
       "archived": false,
       "id": 28573641,

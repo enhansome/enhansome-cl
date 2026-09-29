@@ -17,7 +17,7 @@
                 "id": 1297448989,
                 "language": "Common Lisp",
                 "license": "ISC",
-                "last_commit": "2026-09-28T20:41:54Z",
+                "last_commit": "2026-09-29T15:58:28Z",
                 "open_issues": 6,
                 "owner": "lambda-symbolics",
                 "repo": "autolith",
@@ -57,11 +57,11 @@
                 "id": 438416676,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-28T21:21:26Z",
+                "last_commit": "2026-09-29T19:33:36Z",
                 "open_issues": 58,
                 "owner": "openai",
                 "repo": "openai-openapi",
-                "stars": 2533,
+                "stars": 2534,
                 "topics": [
                   "openai",
                   "openai-api"
@@ -193,7 +193,7 @@
                 "id": 1057828875,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-09-28T07:27:17Z",
+                "last_commit": "2026-09-29T20:28:10Z",
                 "open_issues": 8,
                 "owner": "cl-ai-project",
                 "repo": "cl-mcp",
@@ -504,7 +504,7 @@
                 "id": 857766896,
                 "language": "Common Lisp",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-23T15:38:46Z",
+                "last_commit": "2026-09-29T20:11:17Z",
                 "open_issues": 0,
                 "owner": "davypough",
                 "repo": "wouldwork",
@@ -1007,8 +1007,8 @@
             "id": 18047592,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-28T18:52:27Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-29T19:32:55Z",
+            "open_issues": 30,
             "owner": "csound",
             "repo": "csound",
             "stars": 1508,
@@ -2186,7 +2186,7 @@
                 "id": 453540240,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-07-29T16:29:19Z",
+                "last_commit": "2026-09-29T19:58:40Z",
                 "open_issues": 4,
                 "owner": "ak-coram",
                 "repo": "cl-duckdb",
@@ -2492,7 +2492,7 @@
                 "open_issues": 31,
                 "owner": "dimitri",
                 "repo": "pgloader",
-                "stars": 6541,
+                "stars": 6544,
                 "topics": [
                   "clozure-cl",
                   "common-lisp",
@@ -2769,8 +2769,8 @@
                 "id": 39103695,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-09-14T09:57:23Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-29T08:29:49Z",
+                "open_issues": 8,
                 "owner": "gschjetne",
                 "repo": "json-mop",
                 "stars": 64,
@@ -5072,7 +5072,7 @@
                 "open_issues": 13,
                 "owner": "rdbende",
                 "repo": "Forest-ttk-theme",
-                "stars": 464,
+                "stars": 465,
                 "topics": [
                   "awesome",
                   "beautiful",
@@ -5414,11 +5414,11 @@
             "id": 19966916,
             "language": "Common Lisp",
             "license": null,
-            "last_commit": "2026-09-28T18:57:59Z",
+            "last_commit": "2026-09-29T17:14:56Z",
             "open_issues": 173,
             "owner": "clasp-developers",
             "repo": "clasp",
-            "stars": 2782,
+            "stars": 2783,
             "topics": [
               "common-lisp",
               "compiler",
@@ -5465,8 +5465,8 @@
                 "id": 603296780,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-28T01:19:34Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-29T01:16:14Z",
+                "open_issues": 5,
                 "owner": "sionescu",
                 "repo": "sbcl-goodies",
                 "stars": 51,
@@ -5507,7 +5507,7 @@
                 "id": 762065551,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-28T07:03:46Z",
+                "last_commit": "2026-09-29T07:02:52Z",
                 "open_issues": 0,
                 "owner": "olnw",
                 "repo": "sbcl-builds",
@@ -6780,7 +6780,7 @@
                     "language": "Common Lisp",
                     "license": null,
                     "last_commit": "2026-09-25T15:42:43Z",
-                    "open_issues": 289,
+                    "open_issues": 290,
                     "owner": "slime",
                     "repo": "slime",
                     "stars": 2090,
@@ -7382,7 +7382,7 @@
             "language": "Common Lisp",
             "license": "MIT",
             "last_commit": "2026-06-08T19:59:00Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "fukamachi",
             "repo": "qlot",
             "stars": 575,
@@ -7608,8 +7608,8 @@
                 "id": 614130247,
                 "language": "Nix",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-28T05:10:30Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-29T04:17:58Z",
+                "open_issues": 2,
                 "owner": "hraban",
                 "repo": "cl-nix-lite",
                 "stars": 58,
@@ -10000,6 +10000,34 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "the-great-rouclere",
+                  "description": "Programmable HTTP mocking library in Common Lisp. MIT.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Programmable HTTP mocking library in Common Lisp",
+                    "homepage": null,
+                    "id": 1162126927,
+                    "language": "Common Lisp",
+                    "license": null,
+                    "last_commit": "2026-09-12T21:18:36Z",
+                    "open_issues": 1,
+                    "owner": "phoe",
+                    "repo": "the-great-rouclere",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-29T20:49:49.822Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Testing HTTP requests"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "cl-cookieweb",
                   "description": "a Cookiecutter template to start a web project. BSD_3Clause. Not in Quicklisp.",
                   "children": [],
@@ -11392,8 +11420,33 @@
             {
               "node_type": "item",
               "title": "cmu-infix",
-              "description": "A library for writing infix mathematical notation in Common Lisp. See also polisher.",
-              "children": [],
+              "description": "A library for writing infix mathematical notation in Common Lisp.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "see also polisher",
+                  "description": ".",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Infix notation to S-expression (Polish notation) translator for Common Lisp",
+                    "homepage": null,
+                    "id": 208843804,
+                    "language": "Common Lisp",
+                    "license": "MIT",
+                    "last_commit": "2023-08-19T08:03:03Z",
+                    "open_issues": 0,
+                    "owner": "mrcdr",
+                    "repo": "polisher",
+                    "stars": 7,
+                    "topics": [
+                      "common-lisp",
+                      "infix-notation"
+                    ]
+                  },
+                  "first_seen": "2026-09-29T20:49:49.822Z"
+                }
+              ],
               "repo_info": {
                 "archived": false,
                 "description": "Updated infix.cl of the CMU AI repository, originally written by Mark Kantrowitz",
@@ -11413,6 +11466,27 @@
                 ]
               },
               "first_seen": "2026-08-29T00:34:25.293Z"
+            },
+            {
+              "node_type": "item",
+              "title": "infix-math",
+              "description": "An extensible infix syntax for math. MIT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An extensible infix syntax for math in Common Lisp.",
+                "homepage": null,
+                "id": 3193317,
+                "language": "Common Lisp",
+                "license": null,
+                "last_commit": "2017-07-05T20:42:47Z",
+                "open_issues": 2,
+                "owner": "ruricolist",
+                "repo": "infix-math",
+                "stars": 34,
+                "topics": []
+              },
+              "first_seen": "2026-09-29T20:49:49.822Z"
             }
           ],
           "description": null,
@@ -11589,7 +11663,7 @@
                 "id": 28573641,
                 "language": "Makefile",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-26T09:23:19Z",
+                "last_commit": "2026-09-29T13:18:43Z",
                 "open_issues": 46,
                 "owner": "CodyReichert",
                 "repo": "awesome-cl",
@@ -12124,8 +12198,8 @@
                 "id": 398420452,
                 "language": "Common Lisp",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-07T08:17:48Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-28T22:11:18Z",
+                "open_issues": 6,
                 "owner": "dnaeon",
                 "repo": "clingon",
                 "stars": 162,
@@ -12695,7 +12769,7 @@
                 "language": "Common Lisp",
                 "license": null,
                 "last_commit": "2026-09-25T15:42:43Z",
-                "open_issues": 289,
+                "open_issues": 290,
                 "owner": "slime",
                 "repo": "slime",
                 "stars": 2090,
@@ -13168,7 +13242,7 @@
                     "language": "Common Lisp",
                     "license": null,
                     "last_commit": "2026-09-25T15:42:43Z",
-                    "open_issues": 289,
+                    "open_issues": 290,
                     "owner": "slime",
                     "repo": "slime",
                     "stars": 2090,
@@ -14116,7 +14190,7 @@
       "title": "Tools"
     },
     {
-      "description": "See also:\nEditor utilities:\nCI utilities:\nFor more: Sabra Crolleton's extensive test frameworks comparison.",
+      "description": "See also the \"testing HTTP requests\" subsection.\nSee also:\nEditor utilities:\nCI utilities:\nFor more: Sabra Crolleton's extensive test frameworks comparison.",
       "items": [
         {
           "node_type": "item",
@@ -16369,7 +16443,7 @@
                 "open_issues": 22,
                 "owner": "cl-babel",
                 "repo": "babel",
-                "stars": 102,
+                "stars": 103,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:25.293Z"
@@ -16447,7 +16521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:03:58.107Z",
+    "last_updated": "2026-09-29T20:49:49.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.",
@@ -16455,7 +16529,7 @@
       "id": 28573641,
       "language": "Makefile",
       "license": "NOASSERTION",
-      "last_commit": "2026-09-26T09:23:19Z",
+      "last_commit": "2026-09-29T13:18:43Z",
       "open_issues": 46,
       "owner": "CodyReichert",
       "repo": "awesome-cl",
@@ -16469,7 +16543,7 @@
         "quicklisp"
       ]
     },
-    "original_repository_sha": "4cec3d00cc3726a3a85cc6e7940c3bea108e0b8a",
+    "original_repository_sha": "b134d7a246288bbdc625817218921612a1a0896e",
     "enhanced_repository": "enhansome/enhansome-cl",
     "enhanced_repository_description": null,
     "title": "Awesome Common Lisp with stars"

@@ -17,11 +17,11 @@
                 "id": 1297448989,
                 "language": "Common Lisp",
                 "license": "ISC",
-                "last_commit": "2026-10-02T19:58:00Z",
+                "last_commit": "2026-10-03T00:58:34Z",
                 "open_issues": 5,
                 "owner": "lambda-symbolics",
                 "repo": "autolith",
-                "stars": 376,
+                "stars": 380,
                 "topics": [
                   "agent",
                   "bsd",
@@ -57,8 +57,8 @@
                 "id": 438416676,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-02T17:27:01Z",
-                "open_issues": 51,
+                "last_commit": "2026-10-03T01:12:30Z",
+                "open_issues": 50,
                 "owner": "openai",
                 "repo": "openai-openapi",
                 "stars": 2541,
@@ -193,7 +193,7 @@
                 "id": 1057828875,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-10-02T18:33:30Z",
+                "last_commit": "2026-10-03T04:35:13Z",
                 "open_issues": 8,
                 "owner": "cl-ai-project",
                 "repo": "cl-mcp",
@@ -591,7 +591,7 @@
                 "open_issues": 35,
                 "owner": "norvig",
                 "repo": "paip-lisp",
-                "stars": 7513,
+                "stars": 7514,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:25.293Z"
@@ -1007,8 +1007,8 @@
             "id": 18047592,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-01T16:48:05Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-02T23:35:22Z",
+            "open_issues": 31,
             "owner": "csound",
             "repo": "csound",
             "stars": 1509,
@@ -1887,7 +1887,7 @@
                 {
                   "node_type": "item",
                   "title": "an example web application using bknr.datastore: screenshotbot-oss",
-                  "description": ".",
+                  "description": "screenshotbot/screenshotbot-oss",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1916,7 +1916,7 @@
                 {
                   "node_type": "item",
                   "title": "original repository",
-                  "description": null,
+                  "description": "bknr-datastore/bknr-datastore",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1958,7 +1958,7 @@
                 {
                   "node_type": "item",
                   "title": "active and significant fork: tdrhk/bknr-datastore",
-                  "description": null,
+                  "description": "tdrhq/bknr-datastore",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2532,7 +2532,7 @@
                 {
                   "node_type": "item",
                   "title": "documentation",
-                  "description": null,
+                  "description": "AccelerationNet/cl-csv",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3620,7 +3620,7 @@
             {
               "node_type": "item",
               "title": "Example use: Trial's CI",
-              "description": null,
+              "description": "Shirakumo/trial",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4435,7 +4435,7 @@
         {
           "node_type": "item",
           "title": "raylib",
-          "description": "(2025) - Hand-written bindings to Raylib for improved performance and smaller dependency footprint. MPL-2.0.",
+          "description": "Hand-written bindings to Raylib for improved performance and smaller dependency footprint. MPL-2.0.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5253,8 +5253,8 @@
                 "id": 40242557,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-10-02T19:42:00Z",
-                "open_issues": 93,
+                "last_commit": "2026-10-03T01:45:57Z",
+                "open_issues": 95,
                 "owner": "lem-project",
                 "repo": "lem",
                 "stars": 3051,
@@ -6862,7 +6862,7 @@
                 "id": 401459573,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-10-02T20:45:08Z",
+                "last_commit": "2026-10-02T21:31:36Z",
                 "open_issues": 193,
                 "owner": "coalton-lang",
                 "repo": "coalton",
@@ -7070,7 +7070,7 @@
                 {
                   "node_type": "item",
                   "title": "better read with a Firefox add-on: Practical-cl beautified",
-                  "description": ".",
+                  "description": "vale981/practical-cl-beautified",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7196,7 +7196,7 @@
                 {
                   "node_type": "item",
                   "title": "CLtL2, in PDF format",
-                  "description": null,
+                  "description": "mmontone/cltl2-doc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7249,7 +7249,7 @@
                     "open_issues": 35,
                     "owner": "norvig",
                     "repo": "paip-lisp",
-                    "stars": 7513,
+                    "stars": 7514,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:34:25.293Z"
@@ -7266,7 +7266,7 @@
             {
               "node_type": "item",
               "title": "awesome-lisp-companies",
-              "description": null,
+              "description": "azzamsa/awesome-lisp-companies",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7290,7 +7290,7 @@
             {
               "node_type": "item",
               "title": "cl-software",
-              "description": null,
+              "description": "azzamsa/awesome-cl-software",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7959,7 +7959,7 @@
                 {
                   "node_type": "item",
                   "title": "Allegro's Aserve documentation",
-                  "description": null,
+                  "description": "franzinc/aserve",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9023,7 +9023,7 @@
                 {
                   "node_type": "item",
                   "title": "full support of (pull request",
-                  "description": ")",
+                  "description": "jscl-project/jscl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11045,7 +11045,7 @@
             {
               "node_type": "item",
               "title": "Maxima on Jupyter",
-              "description": null,
+              "description": "robert-dodier/maxima-jupyter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11425,7 +11425,7 @@
                 {
                   "node_type": "item",
                   "title": "see also polisher",
-                  "description": ".",
+                  "description": "mrcdr/polisher",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11650,36 +11650,7 @@
           "node_type": "item",
           "title": "calispel",
           "description": "CSP-like channels for common lisp. With blocking, optionally buffered channels and a \"CSP select\" statement. ISC-style.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "\"It is complete, flexible and easy to use. I would recommend Calispel over Lparallel and ChanL.\" @Ambrevar. discussion",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.",
-                "homepage": "https://awesome-cl.com",
-                "id": 28573641,
-                "language": "Makefile",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-29T13:18:43Z",
-                "open_issues": 46,
-                "owner": "CodyReichert",
-                "repo": "awesome-cl",
-                "stars": 2982,
-                "topics": [
-                  "awesome",
-                  "common-lisp",
-                  "common-lisp-tools",
-                  "libraries",
-                  "lisp",
-                  "quicklisp"
-                ]
-              },
-              "first_seen": "2026-08-29T00:34:25.293Z"
-            }
-          ],
+          "children": [],
           "repo_info": {
             "archived": false,
             "description": "CSP-like channels for common lisp",
@@ -12009,7 +11980,7 @@
                 {
                   "node_type": "item",
                   "title": "maintained on lisp-maintainers/clerk",
-                  "description": null,
+                  "description": "lisp-maintainers/clerk",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12941,7 +12912,7 @@
                 {
                   "node_type": "item",
                   "title": "Slime breakpoints",
-                  "description": null,
+                  "description": "mmontone/slime-breakpoints",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13176,8 +13147,8 @@
                 "id": 40242557,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-10-02T19:42:00Z",
-                "open_issues": 93,
+                "last_commit": "2026-10-03T01:45:57Z",
+                "open_issues": 95,
                 "owner": "lem-project",
                 "repo": "lem",
                 "stars": 3051,
@@ -13232,7 +13203,7 @@
                 {
                   "node_type": "item",
                   "title": "notice: at the time of writing, SLIMA is a bit lagging behind Slime and Swank's latest changes. It works for us with Slime 2.27. Tested on SBCL 2.5.8 and SBCL 2.1.11.debian.",
-                  "description": null,
+                  "description": "slime/slime",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13687,7 +13658,7 @@
                 {
                   "node_type": "item",
                   "title": "colorthemes",
-                  "description": ".",
+                  "description": "koji-kojiro/lem-pygments-colorthemes",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -14559,7 +14530,7 @@
                 {
                   "node_type": "item",
                   "title": "dare we add: used in production by the author's company (ASTN Group, see awesome-lisp-companies",
-                  "description": ")",
+                  "description": "azzamsa/awesome-lisp-companies",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -16521,7 +16492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:46:42.509Z",
+    "last_updated": "2026-10-03T04:39:49.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.",

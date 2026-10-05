@@ -17,11 +17,11 @@
                 "id": 1297448989,
                 "language": "Common Lisp",
                 "license": "ISC",
-                "last_commit": "2026-10-04T19:25:26Z",
+                "last_commit": "2026-10-05T22:01:38Z",
                 "open_issues": 5,
                 "owner": "lambda-symbolics",
                 "repo": "autolith",
-                "stars": 397,
+                "stars": 412,
                 "topics": [
                   "agent",
                   "bsd",
@@ -57,11 +57,11 @@
                 "id": 438416676,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-04T19:31:06Z",
+                "last_commit": "2026-10-05T22:25:09Z",
                 "open_issues": 49,
                 "owner": "openai",
                 "repo": "openai-openapi",
-                "stars": 2542,
+                "stars": 2539,
                 "topics": [
                   "openai",
                   "openai-api"
@@ -193,8 +193,8 @@
                 "id": 1057828875,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-10-04T18:41:06Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-05T03:36:17Z",
+                "open_issues": 8,
                 "owner": "cl-ai-project",
                 "repo": "cl-mcp",
                 "stars": 87,
@@ -386,7 +386,7 @@
                 "language": "Common Lisp",
                 "license": "MIT",
                 "last_commit": "2026-07-27T16:24:11Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "melisgl",
                 "repo": "mgl-mat",
                 "stars": 74,
@@ -504,7 +504,7 @@
                 "id": 857766896,
                 "language": "Common Lisp",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-04T19:17:02Z",
+                "last_commit": "2026-10-05T21:30:43Z",
                 "open_issues": 0,
                 "owner": "davypough",
                 "repo": "wouldwork",
@@ -591,7 +591,7 @@
                 "open_issues": 35,
                 "owner": "norvig",
                 "repo": "paip-lisp",
-                "stars": 7513,
+                "stars": 7515,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:25.293Z"
@@ -1007,11 +1007,11 @@
             "id": 18047592,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-04T10:58:39Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-05T20:26:51Z",
+            "open_issues": 28,
             "owner": "csound",
             "repo": "csound",
-            "stars": 1510,
+            "stars": 1509,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:25.293Z"
@@ -1900,7 +1900,7 @@
                     "open_issues": 0,
                     "owner": "screenshotbot",
                     "repo": "screenshotbot-oss",
-                    "stars": 302,
+                    "stars": 301,
                     "topics": [
                       "android-screenshot-tests",
                       "ci",
@@ -1929,7 +1929,7 @@
                     "open_issues": 8,
                     "owner": "bknr-datastore",
                     "repo": "bknr-datastore",
-                    "stars": 124,
+                    "stars": 127,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:34:25.293Z"
@@ -2492,7 +2492,7 @@
                 "open_issues": 31,
                 "owner": "dimitri",
                 "repo": "pgloader",
-                "stars": 6544,
+                "stars": 6543,
                 "topics": [
                   "clozure-cl",
                   "common-lisp",
@@ -3652,7 +3652,7 @@
             "id": 336796792,
             "language": "Common Lisp",
             "license": null,
-            "last_commit": "2026-09-28T17:57:31Z",
+            "last_commit": "2026-10-05T19:06:08Z",
             "open_issues": 15,
             "owner": "40ants",
             "repo": "setup-lisp",
@@ -3823,7 +3823,7 @@
                 "open_issues": 9,
                 "owner": "andy128k",
                 "repo": "cl-gobject-introspection",
-                "stars": 53,
+                "stars": 54,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:25.293Z"
@@ -4338,7 +4338,7 @@
                 "open_issues": 5,
                 "owner": "Lovesan",
                 "repo": "bike",
-                "stars": 158,
+                "stars": 159,
                 "topics": [
                   "common-lisp",
                   "dotnet",
@@ -5253,11 +5253,11 @@
                 "id": 40242557,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-10-03T16:20:02Z",
+                "last_commit": "2026-10-05T14:03:37Z",
                 "open_issues": 99,
                 "owner": "lem-project",
                 "repo": "lem",
-                "stars": 3051,
+                "stars": 3052,
                 "topics": [
                   "common-lisp",
                   "editor",
@@ -5304,7 +5304,7 @@
                 "language": "Common Lisp",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-08T23:06:34Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "rabbibotton",
                 "repo": "clog",
                 "stars": 1758,
@@ -5390,9 +5390,30 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:25.293Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Evergreen-Compose",
+              "description": "Build native Android apps in Evergreen Common Lisp, using Jetpack Compose and Material 3. GPL-3.0-or-later WITH Classpath-exception-2.0.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Build native Android apps in Common Lisp with Evergreen Compose.",
+                "homepage": null,
+                "id": 1404914802,
+                "language": "Common Lisp",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-05T00:20:22Z",
+                "open_issues": 0,
+                "owner": "atgreen",
+                "repo": "evergreen-compose",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-05T22:39:57.940Z"
             }
           ],
-          "description": "Also:",
+          "description": "Also:\nAI-developed, new and experimental as of Oct, 2026:",
           "node_type": "group",
           "title": "Mobile"
         }
@@ -5400,175 +5421,239 @@
       "title": "GUI"
     },
     {
-      "description": "Proprietary:\nOther implementations, mainly for historical purposes:\nYou can check the implementations' compatibility to common extensions here: portability.cl.\nSee also:",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "CLASP",
-          "description": "a new Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. This allows Clasp to take advantage of a vast array of preexisting libraries and programs, such as out of the scientific computing ecosystem. LGPL2.1 (and others).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "clasp Common Lisp environment",
-            "homepage": "https://clasp-developers.github.io/",
-            "id": 19966916,
-            "language": "Common Lisp",
-            "license": null,
-            "last_commit": "2026-09-29T17:14:56Z",
-            "open_issues": 173,
-            "owner": "clasp-developers",
-            "repo": "clasp",
-            "stars": 2785,
-            "topics": [
-              "common-lisp",
-              "compiler",
-              "lisp"
-            ]
-          },
-          "first_seen": "2026-08-29T00:34:25.293Z"
-        },
-        {
-          "node_type": "group",
-          "title": "⭐ SBCL",
-          "description": "Steel Bank Common Lisp. A fork of CMUCL; compiles to efficient machine code. Standard compliance. Public domain, with some parts under Expat and 3-clause BSD.",
           "children": [
             {
               "node_type": "item",
-              "title": "see also: sbcl-librarian",
-              "description": "Dynamic library delivery tools for SBCL. Create shared libraries that can be called from C or Python. MIT. Blog post. Tutorial.",
+              "title": "CLASP",
+              "description": "a new Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. This allows Clasp to take advantage of a vast array of preexisting libraries and programs, such as out of the scientific computing ecosystem. LGPL2.1 (and others).",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Dynamic library delivery tools for SBCL.",
+                "description": "clasp Common Lisp environment",
+                "homepage": "https://clasp-developers.github.io/",
+                "id": 19966916,
+                "language": "Common Lisp",
+                "license": null,
+                "last_commit": "2026-10-05T01:07:53Z",
+                "open_issues": 173,
+                "owner": "clasp-developers",
+                "repo": "clasp",
+                "stars": 2785,
+                "topics": [
+                  "common-lisp",
+                  "compiler",
+                  "lisp"
+                ]
+              },
+              "first_seen": "2026-08-29T00:34:25.293Z"
+            },
+            {
+              "node_type": "group",
+              "title": "⭐ SBCL",
+              "description": "Steel Bank Common Lisp. A fork of CMUCL; compiles to efficient machine code. Standard compliance. Public domain, with some parts under Expat and 3-clause BSD.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "see also: sbcl-librarian",
+                  "description": "Dynamic library delivery tools for SBCL. Create shared libraries that can be called from C or Python. MIT. Blog post. Tutorial.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Dynamic library delivery tools for SBCL.",
+                    "homepage": null,
+                    "id": 427123249,
+                    "language": "Common Lisp",
+                    "license": "MIT",
+                    "last_commit": "2025-12-03T19:16:07Z",
+                    "open_issues": 20,
+                    "owner": "quil-lang",
+                    "repo": "sbcl-librarian",
+                    "stars": 128,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:34:25.293Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "SBCL-GOODIES",
+                  "description": "Distributing binaries with Common Lisp and foreign libraries: libssl, libcrypto and libfixposix are statically baked in. MIT.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Binary releases for SBCL",
+                    "homepage": null,
+                    "id": 603296780,
+                    "language": "Shell",
+                    "license": "MIT",
+                    "last_commit": "2026-10-01T17:58:11Z",
+                    "open_issues": 2,
+                    "owner": "sionescu",
+                    "repo": "sbcl-goodies",
+                    "stars": 52,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:34:25.293Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "SBCL Windows builds supporting Windows 7+",
+                  "description": ", packaged into NSIS installer and updated monthly (unofficial)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Unofficial automated SBCL build usable on Windows 7",
+                    "homepage": null,
+                    "id": 454744916,
+                    "language": "NSIS",
+                    "license": null,
+                    "last_commit": "2026-10-05T06:01:54Z",
+                    "open_issues": 0,
+                    "owner": "lockie",
+                    "repo": "sbcl-w7",
+                    "stars": 7,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:34:25.293Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Nightly Windows builds of SBCL",
+                  "description": "Nightly builds of SBCL using MSYS2 UCRT64. See also Roswell's SBCL MSI builds.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Nightly builds of SBCL using MSYS2 UCRT64.",
+                    "homepage": null,
+                    "id": 762065551,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2026-10-05T07:11:57Z",
+                    "open_issues": 0,
+                    "owner": "olnw",
+                    "repo": "sbcl-builds",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:34:25.293Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "ECL",
+              "description": "Embeddable Common Lisp; compiles to C. GNU LGPL2.1.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "eclweb",
+                  "description": "is a proof-of-concept REPL inside a browser using Web Assembly (WASM).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 702120611,
+                    "language": "JavaScript",
+                    "license": null,
+                    "last_commit": "2025-04-22T23:25:05Z",
+                    "open_issues": 0,
+                    "owner": "chee",
+                    "repo": "eclweb",
+                    "stars": 20,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:34:25.293Z"
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Open-source and active"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Evergreen",
+              "description": "Evergreen is Common Lisp with a HotSpot-inspired native runtime, built from scratch in Rust. It starts executing in bytecode, compiles hot code to native instructions, and specializes dynamically typed programs as they run.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Native Android applications with Slime-style development: see evergreen-compose",
+                  "description": "atgreen/evergreen-compose",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Build native Android apps in Common Lisp with Evergreen Compose.",
+                    "homepage": null,
+                    "id": 1404914802,
+                    "language": "Common Lisp",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-05T00:20:22Z",
+                    "open_issues": 0,
+                    "owner": "atgreen",
+                    "repo": "evergreen-compose",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-05T22:39:57.940Z"
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "description": "Evergreen Common Lisp",
                 "homepage": null,
-                "id": 427123249,
+                "id": 1398842924,
+                "language": "Rust",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-05T22:29:05Z",
+                "open_issues": 2,
+                "owner": "atgreen",
+                "repo": "evergreen",
+                "stars": 28,
+                "topics": []
+              },
+              "first_seen": "2026-10-05T22:39:57.940Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AI-developped"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Corman Lisp",
+              "description": "a Common Lisp development environment for Microsoft Windows running on Intel platforms. MIT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Corman Lisp",
+                "homepage": null,
+                "id": 28796243,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2025-12-03T19:16:07Z",
+                "last_commit": "2019-03-21T13:58:37Z",
                 "open_issues": 20,
-                "owner": "quil-lang",
-                "repo": "sbcl-librarian",
-                "stars": 128,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:34:25.293Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SBCL-GOODIES",
-              "description": "Distributing binaries with Common Lisp and foreign libraries: libssl, libcrypto and libfixposix are statically baked in. MIT.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Binary releases for SBCL",
-                "homepage": null,
-                "id": 603296780,
-                "language": "Shell",
-                "license": "MIT",
-                "last_commit": "2026-10-01T17:58:11Z",
-                "open_issues": 2,
-                "owner": "sionescu",
-                "repo": "sbcl-goodies",
-                "stars": 52,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:34:25.293Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SBCL Windows builds supporting Windows 7+",
-              "description": ", packaged into NSIS installer and updated monthly (unofficial)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Unofficial automated SBCL build usable on Windows 7",
-                "homepage": null,
-                "id": 454744916,
-                "language": "NSIS",
-                "license": null,
-                "last_commit": "2026-09-10T13:01:31Z",
-                "open_issues": 0,
-                "owner": "lockie",
-                "repo": "sbcl-w7",
-                "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:34:25.293Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Nightly Windows builds of SBCL",
-              "description": "Nightly builds of SBCL using MSYS2 UCRT64. See also Roswell's SBCL MSI builds.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Nightly builds of SBCL using MSYS2 UCRT64.",
-                "homepage": null,
-                "id": 762065551,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-10-04T07:04:15Z",
-                "open_issues": 0,
-                "owner": "olnw",
-                "repo": "sbcl-builds",
-                "stars": 1,
-                "topics": []
+                "owner": "sharplispers",
+                "repo": "cormanlisp",
+                "stars": 591,
+                "topics": [
+                  "common-lisp",
+                  "ide"
+                ]
               },
               "first_seen": "2026-08-29T00:34:25.293Z"
             }
-          ]
-        },
-        {
+          ],
+          "description": "Mainly for historical purposes. We don't list all implementations that have ever existed.",
           "node_type": "group",
-          "title": "ECL",
-          "description": "Embeddable Common Lisp; compiles to C. GNU LGPL2.1.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "eclweb",
-              "description": "is a proof-of-concept REPL inside a browser using Web Assembly (WASM).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 702120611,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2025-04-22T23:25:05Z",
-                "open_issues": 0,
-                "owner": "chee",
-                "repo": "eclweb",
-                "stars": 20,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:34:25.293Z"
-            }
-          ]
-        },
-        {
-          "node_type": "item",
-          "title": "Corman Lisp",
-          "description": "a Common Lisp development environment for Microsoft Windows running on Intel platforms. MIT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Corman Lisp",
-            "homepage": null,
-            "id": 28796243,
-            "language": "Common Lisp",
-            "license": "MIT",
-            "last_commit": "2019-03-21T13:58:37Z",
-            "open_issues": 20,
-            "owner": "sharplispers",
-            "repo": "cormanlisp",
-            "stars": 591,
-            "topics": [
-              "common-lisp",
-              "ide"
-            ]
-          },
-          "first_seen": "2026-08-29T00:34:25.293Z"
+          "title": "Other implementations"
         }
       ],
       "title": "Implementations"
@@ -5619,7 +5704,7 @@
                 "language": "Common Lisp",
                 "license": null,
                 "last_commit": "2026-04-25T12:27:27Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "atgreen",
                 "repo": "rewrite-cl",
                 "stars": 20,
@@ -5709,7 +5794,7 @@
             "id": 18301622,
             "language": "Common Lisp",
             "license": "MIT",
-            "last_commit": "2026-10-04T18:36:36Z",
+            "last_commit": "2026-10-04T20:21:04Z",
             "open_issues": 35,
             "owner": "ruricolist",
             "repo": "serapeum",
@@ -6866,7 +6951,7 @@
                 "open_issues": 193,
                 "owner": "coalton-lang",
                 "repo": "coalton",
-                "stars": 1769,
+                "stars": 1771,
                 "topics": [
                   "common-lisp",
                   "functional-programming",
@@ -6961,7 +7046,7 @@
                 "id": 25835341,
                 "language": "Common Lisp",
                 "license": null,
-                "last_commit": "2026-09-27T23:19:26Z",
+                "last_commit": "2026-10-04T20:51:42Z",
                 "open_issues": 5,
                 "owner": "nasa",
                 "repo": "pvslib",
@@ -7249,7 +7334,7 @@
                     "open_issues": 35,
                     "owner": "norvig",
                     "repo": "paip-lisp",
-                    "stars": 7513,
+                    "stars": 7515,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:34:25.293Z"
@@ -7608,7 +7693,7 @@
                 "id": 614130247,
                 "language": "Nix",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-04T04:30:29Z",
+                "last_commit": "2026-10-05T05:53:27Z",
                 "open_issues": 1,
                 "owner": "hraban",
                 "repo": "cl-nix-lite",
@@ -7901,7 +7986,7 @@
                 "open_issues": 31,
                 "owner": "fukamachi",
                 "repo": "clack",
-                "stars": 1109,
+                "stars": 1110,
                 "topics": [
                   "common-lisp",
                   "web"
@@ -8535,7 +8620,7 @@
                     "language": "Common Lisp",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-08T23:06:34Z",
-                    "open_issues": 19,
+                    "open_issues": 20,
                     "owner": "rabbibotton",
                     "repo": "clog",
                     "stars": 1758,
@@ -9265,7 +9350,7 @@
                 "open_issues": 4,
                 "owner": "cxxxr",
                 "repo": "valtan",
-                "stars": 271,
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:25.293Z"
@@ -9564,7 +9649,7 @@
                     "id": 592001616,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-09-21T16:15:22Z",
+                    "last_commit": "2026-10-05T19:15:42Z",
                     "open_issues": 0,
                     "owner": "40ants",
                     "repo": "prometheus-gc",
@@ -11480,7 +11565,7 @@
                 "language": "Common Lisp",
                 "license": null,
                 "last_commit": "2026-10-04T01:55:11Z",
-                "open_issues": 6,
+                "open_issues": 8,
                 "owner": "ruricolist",
                 "repo": "infix-math",
                 "stars": 34,
@@ -12094,7 +12179,7 @@
                 "id": 302637827,
                 "language": "Common Lisp",
                 "license": null,
-                "last_commit": "2026-09-14T12:47:20Z",
+                "last_commit": "2026-10-05T14:23:57Z",
                 "open_issues": 10,
                 "owner": "ciel-lang",
                 "repo": "CIEL",
@@ -13147,11 +13232,11 @@
                 "id": 40242557,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-10-03T16:20:02Z",
+                "last_commit": "2026-10-05T14:03:37Z",
                 "open_issues": 99,
                 "owner": "lem-project",
                 "repo": "lem",
-                "stars": 3051,
+                "stars": 3052,
                 "topics": [
                   "common-lisp",
                   "editor",
@@ -16492,7 +16577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T19:40:10.355Z",
+    "last_updated": "2026-10-05T22:39:57.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.",
@@ -16500,7 +16585,7 @@
       "id": 28573641,
       "language": "Makefile",
       "license": "NOASSERTION",
-      "last_commit": "2026-09-29T13:18:43Z",
+      "last_commit": "2026-10-05T12:12:51Z",
       "open_issues": 46,
       "owner": "CodyReichert",
       "repo": "awesome-cl",
@@ -16514,7 +16599,7 @@
         "quicklisp"
       ]
     },
-    "original_repository_sha": "b134d7a246288bbdc625817218921612a1a0896e",
+    "original_repository_sha": "da1c4b298efe306dac5185795d52dd44c2b6dee0",
     "enhanced_repository": "enhansome/enhansome-cl",
     "enhanced_repository_description": null,
     "title": "Awesome Common Lisp with stars"

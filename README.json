@@ -17,11 +17,11 @@
                 "id": 1297448989,
                 "language": "Common Lisp",
                 "license": "ISC",
-                "last_commit": "2026-10-05T22:01:38Z",
+                "last_commit": "2026-10-06T20:49:44Z",
                 "open_issues": 6,
                 "owner": "lambda-symbolics",
                 "repo": "autolith",
-                "stars": 422,
+                "stars": 434,
                 "topics": [
                   "agent",
                   "bsd",
@@ -57,11 +57,11 @@
                 "id": 438416676,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-06T05:00:35Z",
+                "last_commit": "2026-10-06T20:51:24Z",
                 "open_issues": 49,
                 "owner": "openai",
                 "repo": "openai-openapi",
-                "stars": 2539,
+                "stars": 2541,
                 "topics": [
                   "openai",
                   "openai-api"
@@ -193,8 +193,8 @@
                 "id": 1057828875,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-10-06T06:30:46Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-06T17:20:05Z",
+                "open_issues": 8,
                 "owner": "cl-ai-project",
                 "repo": "cl-mcp",
                 "stars": 87,
@@ -591,7 +591,7 @@
                 "open_issues": 35,
                 "owner": "norvig",
                 "repo": "paip-lisp",
-                "stars": 7515,
+                "stars": 7516,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:25.293Z"
@@ -1007,7 +1007,7 @@
             "id": 18047592,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-06T09:47:27Z",
+            "last_commit": "2026-10-06T13:27:52Z",
             "open_issues": 23,
             "owner": "csound",
             "repo": "csound",
@@ -1763,7 +1763,7 @@
                 "open_issues": 43,
                 "owner": "fukamachi",
                 "repo": "mito",
-                "stars": 340,
+                "stars": 341,
                 "topics": [
                   "common-lisp",
                   "orm"
@@ -5253,8 +5253,8 @@
                 "id": 40242557,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-10-05T14:03:37Z",
-                "open_issues": 99,
+                "last_commit": "2026-10-06T11:50:03Z",
+                "open_issues": 90,
                 "owner": "lem-project",
                 "repo": "lem",
                 "stars": 3052,
@@ -5437,7 +5437,7 @@
                 "id": 19966916,
                 "language": "Common Lisp",
                 "license": null,
-                "last_commit": "2026-10-05T01:07:53Z",
+                "last_commit": "2026-10-06T14:33:57Z",
                 "open_issues": 173,
                 "owner": "clasp-developers",
                 "repo": "clasp",
@@ -5578,7 +5578,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Evergreen",
+              "title": "(LLM) Evergreen",
               "description": "Evergreen is Common Lisp with a HotSpot-inspired native runtime, built from scratch in Rust. It starts executing in bytecode, compiles hot code to native instructions, and specializes dynamically typed programs as they run.",
               "children": [
                 {
@@ -5610,11 +5610,11 @@
                 "id": 1398842924,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-06T10:45:44Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-06T20:51:07Z",
+                "open_issues": 1,
                 "owner": "atgreen",
                 "repo": "evergreen",
-                "stars": 36,
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-10-05T22:39:57.940Z"
@@ -5622,7 +5622,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "AI-developped"
+          "title": "Work in progress"
         },
         {
           "children": [
@@ -6947,8 +6947,8 @@
                 "id": 401459573,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-10-02T21:31:36Z",
-                "open_issues": 193,
+                "last_commit": "2026-10-06T19:13:41Z",
+                "open_issues": 191,
                 "owner": "coalton-lang",
                 "repo": "coalton",
                 "stars": 1771,
@@ -7047,7 +7047,7 @@
                 "language": "Common Lisp",
                 "license": null,
                 "last_commit": "2026-10-04T20:51:42Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "nasa",
                 "repo": "pvslib",
                 "stars": 313,
@@ -7334,7 +7334,7 @@
                     "open_issues": 35,
                     "owner": "norvig",
                     "repo": "paip-lisp",
-                    "stars": 7515,
+                    "stars": 7516,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:34:25.293Z"
@@ -8496,7 +8496,7 @@
                 "open_issues": 48,
                 "owner": "fukamachi",
                 "repo": "caveman",
-                "stars": 827,
+                "stars": 826,
                 "topics": [
                   "common-lisp",
                   "framework",
@@ -13134,7 +13134,7 @@
                 "open_issues": 40,
                 "owner": "vlime",
                 "repo": "vlime",
-                "stars": 487,
+                "stars": 488,
                 "topics": [
                   "common-lisp",
                   "neovim",
@@ -13232,8 +13232,8 @@
                 "id": 40242557,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-10-05T14:03:37Z",
-                "open_issues": 99,
+                "last_commit": "2026-10-06T11:50:03Z",
+                "open_issues": 90,
                 "owner": "lem-project",
                 "repo": "lem",
                 "stars": 3052,
@@ -16577,7 +16577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:52:21.253Z",
+    "last_updated": "2026-10-06T21:00:13.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.",
@@ -16585,11 +16585,11 @@
       "id": 28573641,
       "language": "Makefile",
       "license": "NOASSERTION",
-      "last_commit": "2026-10-05T12:12:51Z",
+      "last_commit": "2026-10-06T11:20:47Z",
       "open_issues": 46,
       "owner": "CodyReichert",
       "repo": "awesome-cl",
-      "stars": 2983,
+      "stars": 2984,
       "topics": [
         "awesome",
         "common-lisp",
@@ -16599,7 +16599,7 @@
         "quicklisp"
       ]
     },
-    "original_repository_sha": "da1c4b298efe306dac5185795d52dd44c2b6dee0",
+    "original_repository_sha": "bc771bf5ebbd31ecbd8b0a137ce826d012a0629d",
     "enhanced_repository": "enhansome/enhansome-cl",
     "enhanced_repository_description": null,
     "title": "Awesome Common Lisp with stars"

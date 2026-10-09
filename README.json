@@ -17,11 +17,11 @@
                 "id": 1297448989,
                 "language": "Common Lisp",
                 "license": "ISC",
-                "last_commit": "2026-10-08T20:18:08Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-09T20:49:21Z",
+                "open_issues": 7,
                 "owner": "lambda-symbolics",
                 "repo": "autolith",
-                "stars": 462,
+                "stars": 467,
                 "topics": [
                   "agent",
                   "bsd",
@@ -57,7 +57,7 @@
                 "id": 438416676,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-08T21:10:26Z",
+                "last_commit": "2026-10-09T20:00:50Z",
                 "open_issues": 49,
                 "owner": "openai",
                 "repo": "openai-openapi",
@@ -504,7 +504,7 @@
                 "id": 857766896,
                 "language": "Common Lisp",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-08T21:02:01Z",
+                "last_commit": "2026-10-09T19:54:15Z",
                 "open_issues": 0,
                 "owner": "davypough",
                 "repo": "wouldwork",
@@ -1007,11 +1007,11 @@
             "id": 18047592,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-08T14:55:16Z",
+            "last_commit": "2026-10-09T20:45:00Z",
             "open_issues": 22,
             "owner": "csound",
             "repo": "csound",
-            "stars": 1509,
+            "stars": 1510,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:25.293Z"
@@ -1153,7 +1153,7 @@
                 "open_issues": 24,
                 "owner": "phantomics",
                 "repo": "april",
-                "stars": 662,
+                "stars": 665,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:25.293Z"
@@ -2492,7 +2492,7 @@
                 "open_issues": 32,
                 "owner": "dimitri",
                 "repo": "pgloader",
-                "stars": 6542,
+                "stars": 6541,
                 "topics": [
                   "clozure-cl",
                   "common-lisp",
@@ -4084,10 +4084,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-27T16:22:39Z",
-                "open_issues": 3,
+                "open_issues": 5,
                 "owner": "atgreen",
                 "repo": "openldk",
-                "stars": 271,
+                "stars": 273,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:25.293Z"
@@ -5254,7 +5254,7 @@
                 "language": "Common Lisp",
                 "license": "MIT",
                 "last_commit": "2026-10-07T09:03:35Z",
-                "open_issues": 89,
+                "open_issues": 90,
                 "owner": "lem-project",
                 "repo": "lem",
                 "stars": 3053,
@@ -5437,8 +5437,8 @@
                 "id": 19966916,
                 "language": "Common Lisp",
                 "license": null,
-                "last_commit": "2026-10-06T14:33:57Z",
-                "open_issues": 173,
+                "last_commit": "2026-10-09T14:54:50Z",
+                "open_issues": 174,
                 "owner": "clasp-developers",
                 "repo": "clasp",
                 "stars": 2785,
@@ -5530,7 +5530,7 @@
                     "id": 762065551,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-10-08T07:33:48Z",
+                    "last_commit": "2026-10-09T07:31:27Z",
                     "open_issues": 0,
                     "owner": "olnw",
                     "repo": "sbcl-builds",
@@ -5610,11 +5610,11 @@
                 "id": 1398842924,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T20:14:19Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-09T20:53:24Z",
+                "open_issues": 7,
                 "owner": "atgreen",
                 "repo": "evergreen",
-                "stars": 48,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-10-05T22:39:57.940Z"
@@ -5676,7 +5676,7 @@
                 "language": "Common Lisp",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-08-29T14:08:13Z",
-                "open_issues": 13,
+                "open_issues": 12,
                 "owner": "s-expressionists",
                 "repo": "Eclector",
                 "stars": 130,
@@ -6868,7 +6868,7 @@
                     "open_issues": 290,
                     "owner": "slime",
                     "repo": "slime",
-                    "stars": 2091,
+                    "stars": 2092,
                     "topics": [
                       "common-lisp",
                       "emacs"
@@ -7138,7 +7138,7 @@
                 "open_issues": 5,
                 "owner": "vindarel",
                 "repo": "common-lisp-course-in-videos",
-                "stars": 71,
+                "stars": 72,
                 "topics": [
                   "common-lisp",
                   "course",
@@ -7466,8 +7466,8 @@
             "id": 22311104,
             "language": "Common Lisp",
             "license": "MIT",
-            "last_commit": "2026-06-08T19:59:00Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-08T22:50:50Z",
+            "open_issues": 18,
             "owner": "fukamachi",
             "repo": "qlot",
             "stars": 576,
@@ -7858,7 +7858,7 @@
                 "id": 31119025,
                 "language": "Common Lisp",
                 "license": null,
-                "last_commit": "2026-10-07T12:07:04Z",
+                "last_commit": "2026-10-08T22:28:02Z",
                 "open_issues": 48,
                 "owner": "fukamachi",
                 "repo": "dexador",
@@ -8496,7 +8496,7 @@
                 "open_issues": 48,
                 "owner": "fukamachi",
                 "repo": "caveman",
-                "stars": 826,
+                "stars": 827,
                 "topics": [
                   "common-lisp",
                   "framework",
@@ -9894,7 +9894,7 @@
                 "open_issues": 0,
                 "owner": "atgreen",
                 "repo": "pure-tls",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:34:25.293Z"
@@ -12828,7 +12828,7 @@
                 "open_issues": 290,
                 "owner": "slime",
                 "repo": "slime",
-                "stars": 2091,
+                "stars": 2092,
                 "topics": [
                   "common-lisp",
                   "emacs"
@@ -13233,7 +13233,7 @@
                 "language": "Common Lisp",
                 "license": "MIT",
                 "last_commit": "2026-10-07T09:03:35Z",
-                "open_issues": 89,
+                "open_issues": 90,
                 "owner": "lem-project",
                 "repo": "lem",
                 "stars": 3053,
@@ -13301,7 +13301,7 @@
                     "open_issues": 290,
                     "owner": "slime",
                     "repo": "slime",
-                    "stars": 2091,
+                    "stars": 2092,
                     "topics": [
                       "common-lisp",
                       "emacs"
@@ -13823,7 +13823,7 @@
             "language": "Common Lisp",
             "license": "MIT",
             "last_commit": "2021-12-14T23:59:43Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "drewc",
             "repo": "smug",
             "stars": 111,
@@ -14289,7 +14289,7 @@
             "open_issues": 26,
             "owner": "lispci",
             "repo": "fiveam",
-            "stars": 214,
+            "stars": 215,
             "topics": []
           },
           "first_seen": "2026-08-29T00:34:25.293Z"
@@ -15877,8 +15877,8 @@
                 "id": 1071623858,
                 "language": "Common Lisp",
                 "license": "MIT",
-                "last_commit": "2026-06-01T05:05:55Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-09T09:05:40Z",
+                "open_issues": 1,
                 "owner": "fukamachi",
                 "repo": "mallet",
                 "stars": 90,
@@ -16577,7 +16577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T21:21:33.194Z",
+    "last_updated": "2026-10-09T20:56:23.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.",
@@ -16589,7 +16589,7 @@
       "open_issues": 46,
       "owner": "CodyReichert",
       "repo": "awesome-cl",
-      "stars": 2986,
+      "stars": 2987,
       "topics": [
         "awesome",
         "common-lisp",
